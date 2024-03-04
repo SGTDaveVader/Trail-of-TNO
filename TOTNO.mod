@@ -1,0 +1,6 @@
+name = "Trail of TNO"
+path = "mod/TOTNO"
+user_dir = "TOTNO"
+replace_path = "events"
+replace_path = "decisions"
+replace_path = "history"
