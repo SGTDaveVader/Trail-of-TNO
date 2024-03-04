@@ -1,7 +1,6 @@
-owner = NET
-controller = NET
-add_core = MAD
-terrain = dryhills
+
 trade_goods = fruit
 life_rating = 35
-colonial = 2
+owner = CFR
+controller = CFR
+add_core = MAD

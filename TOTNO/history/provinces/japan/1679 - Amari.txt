@@ -1,7 +1,5 @@
-owner = NET
-controller = NET
+owner = JAP
+controller = JAP
 add_core = JAP
-add_core = RYU
-trade_goods = fish
+trade_goods = iron
 life_rating = 35
-terrain = small_island

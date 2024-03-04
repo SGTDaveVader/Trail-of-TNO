@@ -1,7 +1,10 @@
-owner = EAS
-controller = EAS
-add_core = EAS
+owner = GGE
+controller = GGE
+add_core = GGE
 add_core = GER
+
+
+
 trade_goods = fish
-life_rating = 39
-naval_base = 1
+life_rating = 35
+2161.1.1 = { railroad = 3 }

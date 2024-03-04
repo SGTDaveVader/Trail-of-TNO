@@ -1,7 +1,9 @@
-owner = NAS
-controller = NAS
-add_core = NAS
+owner = HGE
+controller = HGE
+add_core = HGE
 add_core = GER
-trade_goods = sulphur
-life_rating = 40
+trade_goods = fruit
+life_rating = 35
+2161.1.1 = { railroad = 3 }
 
+fort = 1

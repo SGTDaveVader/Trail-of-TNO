@@ -1,6 +1,12 @@
-owner = SCA
-controller = SCA
-add_core = BER
+
+owner = HND
+controller = HND
 add_core = HND
-trade_goods = fish
+
+
+
+
+trade_goods = iron
 life_rating = 32
+
+add_core = BER

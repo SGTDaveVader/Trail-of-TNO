@@ -1,5 +1,8 @@
-owner = SVF
-controller = SVF
-add_core = SVF
-trade_goods = grain
-life_rating = 35
+railroad = 3
+owner = COC
+controller = COC
+add_core = AZB
+
+trade_goods = oil
+life_rating = 40
+

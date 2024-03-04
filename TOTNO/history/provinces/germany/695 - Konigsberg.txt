@@ -1,19 +1,27 @@
-owner = LUB
-controller = LUB
-add_core = LUB
-trade_goods = cattle
-life_rating = 40
-fort = 1
-naval_base = 2
+owner = SGE
+controller = SGE
+add_core = SGE
+add_core = GER
+trade_goods = coal
+life_rating = 35
 
 state_building = {
-    level = 2
-    building = machine_parts_factory
-    upgrade = yes
+	level = 1
+	building = canned_food_factory
+	upgrade = yes
 }
-
 state_building = {
-    level = 1
-    building = steel_factory
-    upgrade = yes
+	level = 1
+	building = electric_gear_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = radio_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = telephone_factory
+	upgrade = yes
 }

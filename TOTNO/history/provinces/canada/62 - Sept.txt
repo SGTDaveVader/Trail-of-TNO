@@ -1,7 +1,9 @@
-owner = QUE
-controller = QUE
-add_core = QUE
+
+
+
+
 trade_goods = fish
- 
-life_rating = 30
-colonial = 0
+life_rating = 35
+owner = CAN
+controller = CAN
+add_core = CAN

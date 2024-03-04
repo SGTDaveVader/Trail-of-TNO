@@ -1,4 +1,7 @@
-add_core = TSW
-terrain = savanna
 trade_goods = grain
 life_rating = 15
+owner = EGA
+controller = EGA
+add_core = ZUL
+colonial = 2
+fort = 1

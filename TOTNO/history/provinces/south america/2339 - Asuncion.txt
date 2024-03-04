@@ -1,5 +1,5 @@
-owner = NGV
-controller = NGV
-add_core = NGV
+owner = PRG
+controller = PRG
+add_core = PRG
 trade_goods = cattle
-life_rating = 39
+life_rating = 30

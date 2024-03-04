@@ -1,18 +1,8 @@
-owner = FRA
-controller = FRA
+owner = BRG
+controller = BRG
 add_core = FRA
-add_core = LBR
-trade_goods = sulphur
-life_rating = 32
-railroad = 1
-state_building = {
-    level = 1
-    building = regular_clothes_factory
-    upgrade = yes
-}
-state_building = {
-    level = 1
-    building = steel_factory
-    upgrade = yes
-}
 
+
+trade_goods = sulphur
+life_rating = 35
+2161.1.1 = { railroad = 2 }

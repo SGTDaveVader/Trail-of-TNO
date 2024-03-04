@@ -1,7 +1,9 @@
-owner = ADL
-controller = ADL
-add_core = ADL
+owner = IBE
+controller = IBE
 add_core = IBE
+add_core = SPA
 trade_goods = iron
 life_rating = 35
 naval_base = 1
+
+

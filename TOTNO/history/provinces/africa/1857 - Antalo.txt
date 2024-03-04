@@ -1,7 +1,8 @@
-owner = TIG
-controller = TIG
-add_core = TIG
+owner = IET
+controller = IET
 add_core = ETH
-trade_goods = cattle
-life_rating = 35
 
+
+trade_goods = cattle
+life_rating = 30
+colonial = 2

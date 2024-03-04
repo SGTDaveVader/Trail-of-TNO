@@ -1,6 +1,8 @@
-owner = RMR
-controller = RMR
-add_core = RMR
-add_core = SAR
+owner = ITA
+controller = ITA
+add_core = FRA
+
+
+
 trade_goods = fish
-life_rating = 34
+life_rating = 35

@@ -1,6 +1,5 @@
-owner = CUS
-controller = CUS
-add_core = CUS
-add_core = INC
+owner = PEU
+controller = PEU
+add_core = PEU
 trade_goods = wool
-life_rating = 40
+life_rating = 30

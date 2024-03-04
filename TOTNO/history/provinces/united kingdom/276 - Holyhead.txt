@@ -1,6 +1,8 @@
-owner = WHA
-controller = WHA
-add_core = GAE
-add_core = WHA
+owner = WLE
+controller = WLE
+add_core = WLE
+
+
 trade_goods = fish
 life_rating = 35
+2161.1.1 = { railroad = 3 }

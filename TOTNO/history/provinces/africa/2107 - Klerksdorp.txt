@@ -1,6 +1,6 @@
-owner = MAT
-controller = MAT
-add_core = MAT
-add_core = BSH
-trade_goods = grain
-life_rating = 20
+owner = SAF
+controller = SAF
+add_core = ORA
+civilized = 2
+trade_goods = iron
+life_rating = 35

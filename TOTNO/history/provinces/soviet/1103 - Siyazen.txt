@@ -1,7 +1,6 @@
-owner = MGL
-controller = MGL
-add_core = GOL
-add_core = DAG
+
+owner = COC
+controller = COC
+add_core = AZB
 trade_goods = fruit
 life_rating = 35
-

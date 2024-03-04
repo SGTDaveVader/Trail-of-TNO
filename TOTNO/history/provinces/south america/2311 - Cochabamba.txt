@@ -1,6 +1,5 @@
-owner = CHC
-controller = CHC
-add_core = CHC
-add_core = INC
+owner = BOL
+controller = BOL
+add_core = BOL
 trade_goods = fruit
-life_rating = 35
+life_rating = 30

@@ -1,5 +1,7 @@
-owner = MGL
-controller = MGL
-add_core = MGL
+owner = R11
+controller = R11
+add_core = R11
+railroad = 2
+
 trade_goods = coal
-life_rating = 30
+life_rating = 35

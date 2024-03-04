@@ -1,7 +1,16 @@
-owner = LBR
-controller = LBR
-add_core = LBR
-add_core = SWI
-trade_goods = grain
-life_rating = 32
+owner = ITA
+controller = ITA
+add_core = FRA
+add_core = ITA
 
+
+
+trade_goods = grain
+life_rating = 35
+2161.1.1 = {
+	
+	
+	
+	
+	
+}

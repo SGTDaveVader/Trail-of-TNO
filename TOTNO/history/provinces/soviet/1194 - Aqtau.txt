@@ -1,8 +1,5 @@
-owner = MGL
-controller = MGL
-add_core = OIR
-add_core = MGL
-add_core = KAZ
-terrain = semidesert
-trade_goods = fish
+trade_goods = opium
 life_rating = 25
+owner = KAZ
+controller = KAZ
+add_core = KAZ

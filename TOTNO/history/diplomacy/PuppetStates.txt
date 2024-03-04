@@ -1,141 +1,211 @@
-#Ethiopia
-#Shewa-Kaffa
-vassal = {
-    first = SHW
-    second = KAF
-    start_date = 1836.1.1
-    end_date = 1936.1.1
-}
-#Shewa-Gonder
-vassal = {
-    first = SHW
-    second = GON
-    start_date = 1836.1.1
-    end_date = 1936.1.1
-}
-#Polish PUs
 substate = {
-    first = POL
-    second = HUN
-    start_date = 1836.1.1
-    end_date = 1936.1.1
-}
-
-vassal = {
-    first = POL
-    second = SLS
-    start_date = 1836.1.1
-    end_date = 1936.1.1
-}
-
-#Hansa-Mittelamerika
-vassal = {
-	first = LUB
-	second = UCA
+	first = RAR
+	second = R01
 	start_date = 1836.1.1
-	end_date = 1936.1.1
 }
-
-#Novgorod-Vladimir
-vassal = {
-	first=NOV
-	second=VLD
+substate = {
+	first = RAR
+	second = R04
 	start_date = 1836.1.1
-	end_date = 1936.1.1
 }
-
-#Netherlands-Frisian Duchy
-vassal = {
-    first = NET
-    second = EAS
+substate = {
+	first = RAR
+	second = R06
 	start_date = 1836.1.1
-	end_date = 1936.1.1    
 }
 
-#Netherlands-Tidore Sultanate
-vassal = {
-    first = NET
-    second = MAL
-    start_date = 1836.1.1
-    end_date = 1936.1.1
-}
-
-#Netherlands-Yogyakarta/Surakarta Sultanate
-vassal = {
-    first = NET
-    second = JAV
-    start_date = 1836.1.1
-    end_date = 1936.1.1
-}
-
-#Netherlands-Siak Sultanate
-vassal = {
-    first = NET
-    second = SAK
-    start_date = 1836.1.1
-    end_date = 1936.1.1
-}
-
-#Netherlands-Siak Sultanate
-vassal = {
-    first = NET
-    second = DJA
-    start_date = 1836.1.1
-    end_date = 1936.1.1
-}
-
-#Netherlands-Mysore
-vassal = {
-	first = NET
-	second = MYS
+substate = {
+	first = RUS
+	second = R02
 	start_date = 1836.1.1
-	end_date = 1936.1.1
+}
+substate = {
+	first = RUS
+	second = R03
+	start_date = 1836.1.1
+}
+substate = {
+	first = RUS
+	second = R05
+	start_date = 1836.1.1
 }
 
-#Norway-Sweden
-vassal = {
-    first = SWE
-    second = NOR
-    start_date = 1836.1.1
-    end_date = 1905.1.1
+substate = {
+	first = NUC
+	second = R07
+	start_date = 1836.1.1
+}
+substate = {
+	first = NUC
+	second = R08
+	start_date = 1836.1.1
+}
+substate = {
+	first = NUC
+	second = R09
+	start_date = 1836.1.1
 }
 
-#Mongolia-Jurchen(Yuan)
-vassal = {
-    first = MGL
-    second = MCK
-    start_date = 1836.1.1
-    end_date = 1936.1.1
+substate = {
+	first = WA1
+	second = R10
+	start_date = 1836.1.1
+}
+substate = {
+	first = WA1
+	second = R11
+	start_date = 1836.1.1
 }
 
-#Bohemia-Bavaria
-vassal = {
-    first = BHA
-    second = BAV
-    start_date = 1836.1.1
-    end_date = 1936.1.1
+substate = {
+	first = NKV
+	second = R12
+	start_date = 1836.1.1
 }
 
-#Bohemia-Tirol
-vassal = {
-    first = BHA
-    second = TIR
-    start_date = 1836.1.1
-    end_date = 1936.1.1
+substate = {
+	first = FED
+	second = R13
+	start_date = 1836.1.1
 }
 
-#Rome-Cisalpine
+substate = {
+	first = USA
+	second = OFN
+	start_date = 1836.1.1
+}
 vassal = {
-    first = RMR
-    second = CIS
-    start_date = 1836.1.1
-    end_date = 1936.1.1
+	first = ITA
+	second = YEM
+	start_date = 1836.1.1
+}
+vassal = {
+	first = AFG
+	second = PK1
+	start_date = 1836.1.1
+}
+vassal = {
+	first = AFG
+	second = PK2
+	start_date = 1836.1.1
 }
 
-#Rome-Syracuse
 vassal = {
-    first = RMR
-    second = SYC
-    start_date = 1836.1.1
-    end_date = 1936.1.1
+	first = GER
+	second = BLT
+	start_date = 1836.1.1
+}
+vassal = {
+	first = GER
+	second = GLO
+	start_date = 1836.1.1
+}
+vassal = {
+	first = GER
+	second = UKR
+	start_date = 1836.1.1
+}
+vassal = {
+	first = GER
+	second = BOH
+	start_date = 1836.1.1
+}
+vassal = {
+	first = GER
+	second = POL
+	start_date = 1836.1.1
+}
+vassal = {
+	first = GER
+	second = SLV
+	start_date = 1836.1.1
+}
+substate = {
+	first = ITA
+	second = GRE
+	start_date = 1836.1.1
+}
+substate = {
+	first = JAP
+	second = MCK
+	start_date = 1836.1.1
+}
+substate = {
+	first = JAP
+	second = GXI
+	start_date = 1836.1.1
+}
+vassal = {
+	first = JAP
+	second = CHI
+	start_date = 1836.1.1
+}
+vassal = {
+	first = JAP
+	second = MGL
+	start_date = 1836.1.1
+}
+vassal = {
+	first = GER
+	second = MSC
+	start_date = 1836.1.1
+}
+vassal = {
+	first = GER
+	second = COC
+	start_date = 1836.1.1
+}
+
+substate = {
+	first = FIN
+	second = ONE
+	start_date = 1836.1.1
+}
+
+substate = {
+	first = KAZ
+	second = KHI
+	start_date = 1836.1.1
+}
+
+substate = {
+	first = KAZ
+	second = KOK
+	start_date = 1836.1.1
+}
+
+substate = {
+	first = KAZ
+	second = BUK
+	start_date = 1836.1.1
+}
+
+substate = {
+	first = ITA
+	second = IGY
+	start_date = 1836.1.1
+}
+
+substate = {
+	first = ITA
+	second = IIS
+	start_date = 1836.1.1
+}
+
+substate = {
+	first = ITA
+	second = IET
+	start_date = 1836.1.1
+}
+
+vassal = {
+	first = CFR
+	second = AF1
+	start_date = 1836.1.1
+}
+
+vassal = {
+	first = NGA
+	second = CAR
+	start_date = 1836.1.1
 }

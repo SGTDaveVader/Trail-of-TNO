@@ -1,6 +1,5 @@
-owner = NGV
-controller = NGV
-add_core = NGV
-trade_goods = cattle
+owner = BRZ
+controller = BRZ
+add_core = BRZ
+trade_goods = tobacco
 life_rating = 35
-

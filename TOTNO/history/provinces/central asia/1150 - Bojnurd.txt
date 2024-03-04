@@ -1,7 +1,8 @@
-owner = TKM
-controller = TKM
-add_core = TKM
+owner = PER
+controller = PER
 add_core = PER
-add_core = SVF
+
+
+
 trade_goods = coal
 life_rating = 35

@@ -1,7 +1,8 @@
-owner = NCE
-controller = NCE
-add_core = NCE
-add_core = BYZ
+
+
 
 trade_goods = grain
-life_rating = 40
+life_rating = 35
+owner = TUR
+controller = TUR
+add_core = TUR

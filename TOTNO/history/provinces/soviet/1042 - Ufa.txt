@@ -1,7 +1,7 @@
-owner = MGL
-controller = MGL
+owner = RUS
+controller = RUS
 add_core = RUS
-add_core = GOL
-add_core = MGL
+
+
 trade_goods = iron
 life_rating = 35

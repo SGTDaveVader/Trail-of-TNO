@@ -1,5 +1,7 @@
-add_core = NMB
-terrain = semidesert
 trade_goods = grain
-life_rating = 10
-colonial = 1
+life_rating = 15
+owner = SGA
+controller = SGA
+add_core = SGA
+
+colonial = 2

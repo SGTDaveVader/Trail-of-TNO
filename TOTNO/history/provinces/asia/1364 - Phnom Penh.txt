@@ -1,5 +1,8 @@
-owner = SIA
-controller = SIA
+owner = CAM
+controller = CAM
 add_core = CAM
-trade_goods = grain
-life_rating = 40
+
+
+
+trade_goods = rubber
+life_rating = 30

@@ -1,8 +1,6 @@
-owner = WRL
-controller = WRL
-add_core = WRL
-add_core = SHW
+owner = IET
+controller = IET
 add_core = ETH
-terrain = dryhills
 trade_goods = grain
-life_rating = 35
+life_rating = 30
+colonial = 2

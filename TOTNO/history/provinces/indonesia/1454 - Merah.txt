@@ -1,3 +1,5 @@
-add_core = PPG
+owner = EIC
+controller = EIC
+add_core = EIC
 trade_goods = fish
-life_rating = 10
+life_rating = 30

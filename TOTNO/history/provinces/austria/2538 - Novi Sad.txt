@@ -1,6 +1,10 @@
-owner = HUN
-controller = HUN
-add_core = HUN
-add_core = PLC
+owner = YUG
+controller = YUG
+add_core = YUG
+add_core = SER
+
+
+
 trade_goods = wool
 life_rating = 35
+ 

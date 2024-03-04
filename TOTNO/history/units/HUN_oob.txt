@@ -1,134 +1,191 @@
-#Army
+army = {
+	name = "1a Armata" #done
+	location = 641
+	regiment = {
+		name= "1.1a Bersaglieri"
+		type = infantry
+		home = 641
+	}
 
+	regiment = {
+		name= "2.1a Bersaglieri"
+		type = infantry
+		home = 641
+	}
+
+	regiment = {
+		name= "3.1a Bersaglieri"
+		type = infantry
+		home = 641
+	}
+
+	regiment = {
+		name= "1.2a Bersaglieri"
+		type = infantry
+		home = 641
+	}
+
+	regiment = {
+		name= "2.2a Bersaglieri"
+		type = artillery
+		home = 635
+	}
+
+	regiment = {
+		name= "3.2a Bersaglieri"
+		type = artillery
+		home = 642
+	}
+
+	regiment = {
+		name= "1.1a Granatieri"
+		type = artillery
+		home = 642
+	}
+
+	regiment = {
+		name= "2.1a Granatieri"
+		type = artillery
+		home = 642
+	}
+
+	regiment = {
+		name= "3.1a Granatieri"
+		type = artillery
+		home = 642
+	}
+
+	regiment = {
+		name= "4.1a Granatieri"
+		type = hussar
+		home = 641
+	}
+}
 
 army = {
-    name = "I. Hadsereg"
-    location = 641
-    regiment = {
-        name= "1.1. Lovasdandár"
-        type = cuirassier
-        home = 641
-    }
-    regiment = {
-        name= "2.1. Gyalogdandár"
-        type = infantry
-        home = 644
-    }
-	 regiment = {
-        name= "2.2. Gyalogdandár"
-        type = infantry
-        home = 639
-    }
+	name = "1a Armata" #done
+	location = 661
 	regiment = {
-        name= "2.3. Gyalogdandár"
-        type = infantry
-        home = 639
-    }
+		name= "1.1a Bersaglieri"
+		type = infantry
+		home = 643
+	}
+
 	regiment = {
-        name= "3.3. Gyalogdandár"
-        type = infantry
-        home = 639
-    }
+		name= "2.1a Bersaglieri"
+		type = infantry
+		home = 643
+	}
+
 	regiment = {
-        name= "1.1. Tüzérüteg"
-        type = artillery
-        home = 642
-    }
+		name= "3.1a Bersaglieri"
+		type = infantry
+		home = 643
+	}
+
 	regiment = {
-        name= "1.2. Tüzérüteg"
-        type = artillery
-        home = 773
-    }
+		name= "1.2a Bersaglieri"
+		type = infantry
+		home = 643
+	}
+
 	regiment = {
-        name= "2.2. Tüzérüteg"
-        type = artillery
-        home = 633
-    }
+		name= "2.2a Bersaglieri"
+		type = artillery
+		home = 644
+	}
+
 	regiment = {
-        name= "2.3. Tüzérüteg"
-        type = artillery
-        home = 643
-    }
+		name= "3.2a Bersaglieri"
+		type = artillery
+		home = 639
+	}
+
 	regiment = {
-        name= "3.3. Tüzérüteg"
-        type = artillery
-        home = 643
-    }
+		name= "1.1a Granatieri"
+		type = artillery
+		home = 639
+	}
+
 	regiment = {
-        name= "3.4. Tüzérüteg"
-        type = artillery
-        home = 644
-    }
+		name= "2.1a Granatieri"
+		type = artillery
+		home = 639
+	}
+
+	regiment = {
+		name= "3.1a Granatieri"
+		type = artillery
+		home = 640
+	}
+
+	regiment = {
+		name= "4.1a Granatieri"
+		type = hussar
+		home = 649
+	}
 }
 
+army = {
+	name = "1a Armata" #done
+	location = 655
+	regiment = {
+		name= "1.1a Bersaglieri"
+		type = infantry
+		home = 652
+	}
 
-leader = {
-    name = "Mészáros Lázár"
-    date = 1805.1.1
-    type = land
-    personality = au_fait
-    background = elderly
-    prestige = 0.3
-}
+	regiment = {
+		name= "2.1a Bersaglieri"
+		type = infantry
+		home = 652
+	}
 
-leader = {
-    name = "Lahner György"
-    date = 1835.1.1
-    type = land
-    personality = wrathful
-    background = natural_born_leader
-    prestige = 0.1
-}
+	regiment = {
+		name= "3.1a Bersaglieri"
+		type = infantry
+		home = 653
+	}
 
-leader = {
-    name = "Kiss Erno"
-    date = 1835.1.1
-    type = land
-    personality = active_p
-    background = aristocrat
-    prestige = 0.1
-}
+	regiment = {
+		name= "1.2a Bersaglieri"
+		type = infantry
+		home = 656
+	}
 
-leader = {
-    name = "Móga János"
-    date = 1834.1.1
-    type = land
-    personality = aggressive
-    background = generals_aide
-    prestige = 0.1
-}
+	regiment = {
+		name= "2.2a Bersaglieri"
+		type = artillery
+		home = 655
+	}
 
-leader = {
-    name = "Vetter Antal"
-    date = 1832.1.1
-    type = land
-    personality = bold
-    background = drillmaster
-    prestige = 0.1
-}
+	regiment = {
+		name= "3.2a Bersaglieri"
+		type = artillery
+		home = 647
+	}
 
-leader = {
-    name = "Bottyán János"
-    date = 1826.1.1
-    type = land
-    personality = arrogant
-    background = butcher
-    prestige = 0.3
-}
+	regiment = {
+		name= "1.1a Granatieri"
+		type = artillery
+		home = 648
+	}
 
-leader = {
-    name = "Damjanich János"
-    date = 1836.1.1
-    type = land
-    personality = active_p
-    background = aristocrat
-}
+	regiment = {
+		name= "2.1a Granatieri"
+		type = artillery
+		home = 648
+	}
 
-leader = {
-    name = "Aulich Lajos"
-    date = 1824.1.1
-    type = sea
-    personality = competent
-    background = aristocrat
-    prestige = 0.1
+	regiment = {
+		name= "3.1a Granatieri"
+		type = artillery
+		home = 651
+	}
+
+	regiment = {
+		name= "4.1a Granatieri"
+		type = hussar
+		home = 661
+	}
 }

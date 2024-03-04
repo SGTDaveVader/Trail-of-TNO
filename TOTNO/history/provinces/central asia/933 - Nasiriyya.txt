@@ -1,7 +1,9 @@
-owner = SVF
-controller = SVF
-add_core = SVF
 
+owner = IRQ
+controller = IRQ
 add_core = IRQ
+
+
+
 trade_goods = fruit
 life_rating = 35

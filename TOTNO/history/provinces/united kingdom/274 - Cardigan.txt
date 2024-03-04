@@ -1,32 +1,8 @@
-owner = WHA
-controller = WHA
-add_core = GAE
-add_core = WHA
-trade_goods = iron
-life_rating = 36
+owner = WLE
+controller = WLE
+add_core = WLE
 
-state_building = {
-    level = 1
-    building = steel_factory
-    upgrade = yes
-}
-state_building = {
-        level = 1
-        building = ammunition_factory
-        upgrade = yes
-    }
-state_building = {
-        level = 1
-        building = fertilizer_factory
-        upgrade = yes
-    }
-state_building = {
-        level = 1
-        building = artillery_factory
-        upgrade = yes
-    }
-state_building = {
-	level = 1
-	building = steamer_shipyard
-	upgrade = yes
-}
+
+trade_goods = iron
+life_rating = 35
+2161.1.1 = { railroad = 3 }

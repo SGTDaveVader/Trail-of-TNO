@@ -1,8 +1,7 @@
-owner = HET
-controller = HET
-add_core = HET
+
+owner = UKR
+controller = UKR
 add_core = UKR
-add_core = KIR
+
 trade_goods = coal
 life_rating = 35
-

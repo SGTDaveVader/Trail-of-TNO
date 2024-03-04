@@ -1,6 +1,9 @@
-owner = FRA
-controller = FRA
-add_core = BRU
-add_core = SUL
+owner = EIC
+controller = EIC
+add_core = EIC
+
+
 trade_goods = grain
-life_rating = 32
+life_rating = 15
+
+add_core = BRU

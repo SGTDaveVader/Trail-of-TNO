@@ -1,8 +1,8 @@
-owner = PNT
-controller = PNT
-add_core = PNT
+owner = COC
+controller = COC
 add_core = GEO
 
-trade_goods = fish
+
+
+trade_goods = tea
 life_rating = 35
-naval_base = 1

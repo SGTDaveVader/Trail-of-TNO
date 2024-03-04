@@ -1,18 +1,28 @@
-owner = SCO
-controller = SCO
-add_core = SCO 
-add_core = GAE
-add_core = ENL
+owner = ENG
+controller = ENG
+add_core = ENG
+
+
 trade_goods = coal
 life_rating = 35
 
 state_building = {
-    level = 2
-    building = explosives_factory
-    upgrade = yes
+	level = 1
+	building = artillery_factory
+	upgrade = yes
 }
 state_building = {
-    level = 3
-    building = artillery_factory
-    upgrade = yes
+	level = 1
+	building = ammunition_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = explosives_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = steel_factory
+	upgrade = yes
 }

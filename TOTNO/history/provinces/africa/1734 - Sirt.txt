@@ -1,7 +1,6 @@
-owner = TRI
-controller = TRI
-add_core = TRI
+owner = ITA
+controller = ITA
+add_core = LBY
+
 trade_goods = wool
 life_rating = 35
-terrain = semidesert
-#terrain = coastal_desert

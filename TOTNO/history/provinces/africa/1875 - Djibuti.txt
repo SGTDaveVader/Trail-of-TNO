@@ -1,8 +1,7 @@
-owner = EGY
-controller = EGY
-add_core = AWS
-add_core = WRL
+owner = IET
+controller = IET
+add_core = ETH
+
 trade_goods = cattle
-terrain = semidesert
-life_rating = 35
-naval_base = 1
+life_rating = 15
+colonial = 2

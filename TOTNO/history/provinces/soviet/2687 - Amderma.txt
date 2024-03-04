@@ -1,6 +1,9 @@
-owner = NOV
-controller = NOV
-add_core = NOV
-add_core = RUS
-trade_goods = fish
-life_rating = 10
+owner = R06
+controller = R06
+add_core = R06
+
+colonial = 2
+
+
+trade_goods = timber
+life_rating = 15

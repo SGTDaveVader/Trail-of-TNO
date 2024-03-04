@@ -1,7 +1,7 @@
-owner = PNT
-controller = PNT
-add_core = PNT
-add_core = ARM
 
+owner = COC
+controller = COC
+add_core = ARM
+add_core = AZB
 trade_goods = wool
 life_rating = 35

@@ -1,8 +1,7 @@
-owner = HET
-controller = HET
+owner = ROM
+controller = ROM
 add_core = UKR
-add_core = KIR
-add_core = HET
+
+
 trade_goods = fish
-life_rating = 40
-naval_base = 1
+life_rating = 35

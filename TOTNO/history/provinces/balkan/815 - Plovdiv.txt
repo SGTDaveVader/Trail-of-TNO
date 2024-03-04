@@ -1,7 +1,24 @@
-owner = EPI
-controller = EPI
-add_core = EPI
-add_core = BYZ
-add_core = TRC
+owner = BUL
+controller = BUL
+add_core = BUL
+
+
+
+
 trade_goods = tobacco
-life_rating = 40
+life_rating = 35
+state_building = {
+	level = 1
+	building = furniture_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = luxury_furniture_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = luxury_clothes_factory
+	upgrade = yes
+}

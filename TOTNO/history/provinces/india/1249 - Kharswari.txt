@@ -1,7 +1,9 @@
-owner = BNG
-controller = BNG
-add_core = BNG
-add_core = HND
-add_core = BIH
-trade_goods = coal
+
+
+
+trade_goods = cotton
 life_rating = 28
+owner = AHG
+controller = AHG
+add_core = AHG
+add_core = HND

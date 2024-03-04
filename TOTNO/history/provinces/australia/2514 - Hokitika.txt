@@ -1,5 +1,6 @@
-add_core = AOT
+owner = NZL
+controller = NZL
+add_core = NZL
 trade_goods = wool
-terrain = montane_forest
 life_rating = 30
-
+ 

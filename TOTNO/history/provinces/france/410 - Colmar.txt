@@ -1,13 +1,12 @@
-owner = LOR
-controller = LOR
-add_core = LOR
-add_core = ALS
+owner = HGE
+controller = HGE
+add_core = HGE
+add_core = GER
+
+
+
+fort = 1
+
 trade_goods = sulphur
-life_rating = 32
-state_building = {
-    level = 1
-    building = fertilizer_factory
-    upgrade = yes
-}
-
-
+life_rating = 35
+2161.1.1 = { railroad = 3 }

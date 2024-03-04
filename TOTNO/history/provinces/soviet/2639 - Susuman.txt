@@ -1,3 +1,6 @@
-add_core = KAM
+owner = FED
+controller = FED
+add_core = FED
+
 trade_goods = fish
-life_rating = 20
+life_rating = 35

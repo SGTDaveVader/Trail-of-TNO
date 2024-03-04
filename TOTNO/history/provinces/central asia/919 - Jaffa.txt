@@ -1,9 +1,13 @@
-owner = JER
-controller = JER
-add_core = JER
-add_core = PLS
+owner = IIS
+controller = IIS
+add_core = ISR
+
+
+
 trade_goods = fruit
 life_rating = 35
-terrain = semidesert
 
-
+2161.1.1 = {
+	 
+	
+}

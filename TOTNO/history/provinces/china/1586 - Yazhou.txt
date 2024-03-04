@@ -1,6 +1,8 @@
-owner = QNG
-controller = QNG
-add_core = QNG
-add_core = CHI
-trade_goods = timber
+owner = CH5
+controller = CH5
+add_core = CH5
+
+
+trade_goods = iron
+#trade_goods = timber
 life_rating = 32

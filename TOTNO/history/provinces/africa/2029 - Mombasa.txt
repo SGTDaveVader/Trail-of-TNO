@@ -1,7 +1,7 @@
-owner = SCO
-controller = SCO
-add_core = ZAN
+
 trade_goods = fish
-terrain = savanna
 life_rating = 35
+owner = EGA
+controller = EGA
+add_core = EGA
 colonial = 2

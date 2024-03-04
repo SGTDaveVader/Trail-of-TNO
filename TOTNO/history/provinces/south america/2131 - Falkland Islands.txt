@@ -1,7 +1,5 @@
-owner = IRE
-controller = IRE
-add_core = IRE
+owner = CBR
+controller = CBR
+add_core = ARG
 trade_goods = wool
 life_rating = 30
-colonial = 2
- 

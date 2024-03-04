@@ -1,8 +1,9 @@
-owner = JER
-controller = JER
-add_core = JER
+owner = ITA
+controller = ITA
 add_core = EGY
-trade_goods = cotton
-life_rating = 32
-terrain = semidesert
 
+
+
+trade_goods = cotton
+life_rating = 35
+colonial = 2

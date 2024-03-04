@@ -1,5 +1,8 @@
-owner = CUB
-controller = CUB
-add_core = CUB
-trade_goods = fish
-life_rating = 30
+
+
+
+trade_goods = iron
+life_rating = 35
+owner = CAN
+controller = CAN
+add_core = CAN

@@ -1,7 +1,28 @@
-owner = SCA
-controller = SCA
-add_core = SCA
+owner = ENG
+controller = ENG
 add_core = ENG
-add_core = GAE
+
+
 trade_goods = coal
 life_rating = 35
+
+state_building = {
+	level = 1
+	building = canned_food_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = electric_gear_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = radio_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = telephone_factory
+	upgrade = yes
+}

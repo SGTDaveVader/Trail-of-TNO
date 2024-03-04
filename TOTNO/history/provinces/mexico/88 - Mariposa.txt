@@ -1,6 +1,13 @@
-owner = MEX
-controller = MEX
-add_core = MEX
-trade_goods = fruit
+owner = USA
+controller = USA
+
+add_core = USA
+add_core = DES
+add_core = CAL
+trade_goods = coal
 life_rating = 35
-colonial = 2
+2161.1.1 = {
+owner = USA
+controller = USA
+add_core = USA
+}

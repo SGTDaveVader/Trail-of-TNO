@@ -1,7 +1,6 @@
-owner = CJM
-controller = CJM
-add_core = CJM
-add_core = INC
-trade_goods = grain
+owner = ECU
+controller = ECU
+add_core = ECU
+add_core = GCO
+trade_goods = fruit
 life_rating = 35
-naval_base = 1

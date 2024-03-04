@@ -1,8 +1,8 @@
-owner = TIG
-controller = TIG
-add_core = TIG
-add_core = ETH
-trade_goods = grain
-terrain = desert
-life_rating = 10
 
+
+colonial = 2
+trade_goods = grain
+life_rating = 30
+owner = IET
+controller = IET
+add_core = ETH

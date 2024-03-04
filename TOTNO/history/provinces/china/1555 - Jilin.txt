@@ -1,7 +1,9 @@
-owner = MGL
-controller = MGL
+
+owner = MCK
+controller = MCK
 add_core = MCK
-add_core = MGL
+
+
+
 trade_goods = iron
-railroad = 1
 life_rating = 32

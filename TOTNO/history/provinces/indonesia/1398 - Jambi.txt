@@ -1,6 +1,7 @@
-owner = NET
-controller = NET
-add_core = DJA
-trade_goods = grain
-life_rating = 31
-colonial = 2
+owner = EIC
+controller = EIC
+add_core = EIC
+trade_goods = rubber
+life_rating = 30
+ 
+add_core = ATJ

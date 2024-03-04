@@ -1,6 +1,6 @@
-owner = GAZ
-controller = GAZ
-add_core = GAZ
-add_core = SHO
-trade_goods = grain
+trade_goods = rubber
 life_rating = 35
+owner = EGA
+controller = EGA
+add_core = MOZ
+colonial = 2

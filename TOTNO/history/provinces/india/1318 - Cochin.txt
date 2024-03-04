@@ -1,6 +1,10 @@
-owner = NET
-controller = NET
+
+owner = HND
+controller = HND
 add_core = HND
+
+
 add_core = TRA
-trade_goods = grain
+
+trade_goods = coal
 life_rating = 32

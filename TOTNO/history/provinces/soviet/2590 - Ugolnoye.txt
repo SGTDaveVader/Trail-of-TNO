@@ -1,8 +1,5 @@
-owner = ADL
-controller = ADL
-add_core = ADL
-add_core = MOR
-trade_goods = precious_goods
-terrain = urban
-life_rating = 35
 
+
+
+trade_goods = fish
+life_rating = 20

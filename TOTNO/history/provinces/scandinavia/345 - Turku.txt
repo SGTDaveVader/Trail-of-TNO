@@ -1,7 +1,25 @@
-owner = NOV
-controller = NOV
-add_core = NOV
+owner = FIN
+controller = FIN
 add_core = FIN
-add_core = RUS
-trade_goods = grain
+trade_goods = fish
 life_rating = 35
+state_building = {
+	level = 1
+	building = artillery_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = ammunition_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = explosives_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = steel_factory
+	upgrade = yes
+}

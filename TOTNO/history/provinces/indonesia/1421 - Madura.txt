@@ -1,6 +1,7 @@
-owner = NET
-controller = NET
+owner = EIC
+controller = EIC
+add_core = EIC
+trade_goods = rubber
+life_rating = 30
 add_core = JAV
-trade_goods = sulphur
-life_rating = 35
-colonial = 2
+ 

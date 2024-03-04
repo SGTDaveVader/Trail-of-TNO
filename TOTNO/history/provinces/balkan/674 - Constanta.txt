@@ -1,7 +1,12 @@
-owner = WAL
-controller = WAL
-add_core = WAL
+owner = BUL
+controller = BUL
+add_core = BUL
 add_core = ROM
-add_core = TRC
+add_core = WAL
+
+
+
+
+ 
 trade_goods = grain
 life_rating = 35

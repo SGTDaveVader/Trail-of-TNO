@@ -1,10 +1,8 @@
-owner = LOR
-controller = LOR
-add_core = LOR
+owner = BRG
+controller = BRG
+add_core = FRA
+
+
 trade_goods = sulphur
 life_rating = 32
-state_building = {
-    level = 1
-    building = explosives_factory
-    upgrade = yes
-}
+2161.1.1 = { railroad = 3 }

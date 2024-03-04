@@ -1,7 +1,8 @@
-owner = NET
-controller = NET
-add_core = NET
-add_core = LUX
-trade_goods = coal
-life_rating = 35
-fort = 1
+owner = HGE
+controller = HGE
+add_core = HGE
+
+
+trade_goods = iron
+life_rating = 32
+2161.1.1 = { railroad = 3 }

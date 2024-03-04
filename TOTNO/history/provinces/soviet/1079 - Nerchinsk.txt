@@ -1,6 +1,33 @@
-owner = MGL
-controller = MGL
-add_core = MCK
-add_core = MGL
+owner = R13
+controller = R13
+add_core = R13
+railroad = 2
+
+
 trade_goods = grain
 life_rating = 35
+state_building = {
+	level = 1
+	building = canned_food_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = steel_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = small_arms_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = artillery_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = ammunition_factory
+	upgrade = yes
+}

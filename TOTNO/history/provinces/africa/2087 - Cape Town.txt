@@ -1,8 +1,9 @@
-owner = NET
-controller = NET
-add_core = NET
-trade_goods = fruit
-life_rating = 35
-colonial = 2
 naval_base = 1
 
+add_core = SAF
+trade_goods = fruit
+life_rating = 35
+owner = SAF
+controller = SAF
+
+fort = 1

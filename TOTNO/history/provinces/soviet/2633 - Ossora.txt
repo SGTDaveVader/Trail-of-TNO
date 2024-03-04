@@ -1,4 +1,7 @@
-add_core = KAM
+owner = NAV
+controller = NAV
+add_core = NAV
+
+
 trade_goods = fish
-terrain = montane_tundra
-life_rating = 15
+life_rating = 20

@@ -1,6 +1,8 @@
 owner = YNN
 controller = YNN
 add_core = YNN
-add_core = CHI
-trade_goods = silk
+
+
+trade_goods = opium
+#trade_goods = silk
 life_rating = 32

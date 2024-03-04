@@ -1,8 +1,8 @@
-owner = CHG
-controller = CHG
-add_core = CHG
-add_core = RUS
-add_core = UKR
-add_core = KIR
+owner = MSC
+controller = MSC
+add_core = MSC
+
+
+
 trade_goods = grain
 life_rating = 35

@@ -1,5 +1,5 @@
-owner = NGV
-controller = NGV
-add_core = NGV
-trade_goods = precious_metal
+owner = BRZ
+controller = BRZ
+add_core = BRZ
+trade_goods = coffee
 life_rating = 35

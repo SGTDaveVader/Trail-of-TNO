@@ -1,5 +1,7 @@
-owner = MAL
-controller = MAL
-add_core = MAL
+
 trade_goods = fish
-life_rating = 31
+life_rating = 30
+owner = EIC
+controller = EIC
+add_core = EIC
+add_core = BAL

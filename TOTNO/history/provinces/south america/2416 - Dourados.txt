@@ -1,6 +1,4 @@
-owner = NGV
-controller = NGV
-add_core = NGV
-trade_goods = fruit
-terrain = savanna
-life_rating = 31
+owner = BRZ
+controller = BRZ
+add_core = BRZtrade_goods = fruit
+life_rating = 25

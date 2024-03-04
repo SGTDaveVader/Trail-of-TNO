@@ -5,6 +5,7 @@ country_event = {
 	picture = "Unite"
 	
 	trigger = {
+		NOT = {has_country_flag = verona_conference}
 		NOT = {
 			government = proletarian_dictatorship
 			government = presidential_dictatorship
@@ -36,6 +37,7 @@ country_event = {
 	picture = "Unite"
 	
 	trigger = {
+		NOT = {has_country_flag = verona_conference}
 		NOT = {
 			government = proletarian_dictatorship
 			government = presidential_dictatorship
@@ -67,6 +69,7 @@ country_event = {
 	picture = "Unite"
 	
 	trigger = {
+		NOT = {has_country_flag = verona_conference}
 		NOT = {
 			government = proletarian_dictatorship
 			government = presidential_dictatorship
@@ -98,6 +101,7 @@ country_event = {
 	picture = "Unite"
 	
 	trigger = {
+		NOT = {has_country_flag = verona_conference}
 		NOT = {
 			government = proletarian_dictatorship
 			government = presidential_dictatorship
@@ -119,6 +123,7 @@ country_event = {
 	option = {
 		name = "EVTOPTA60030"
 		government = fascist_dictatorship
+		ruling_party_ideology = fascist
 	}
 }
 
@@ -129,6 +134,7 @@ country_event = {
 	picture = "Unite"
 	
 	trigger = {
+		NOT = {has_country_flag = verona_conference}
 		OR = {
 			government = proletarian_dictatorship
 			government = presidential_dictatorship
@@ -160,6 +166,7 @@ country_event = {
 	picture = "Monarchy"
 	
 	trigger = {
+		NOT = {has_country_flag = verona_conference}
 		OR = {
 			government = hms_government
 			government = prussian_constitutionalism
@@ -188,6 +195,7 @@ country_event = {
 	picture = "Monarchy"
 	
 	trigger = {
+		NOT = {has_country_flag = verona_conference}
 		government = absolute_monarchy
 		NOT = {
 				vote_franschise = none_voting
@@ -212,6 +220,7 @@ country_event = {
 	picture = "Monarchy"
 	
 	trigger = {
+		NOT = {has_country_flag = verona_conference}
 		government = prussian_constitutionalism
 		OR = {
 			political_parties = secret_ballots
@@ -226,7 +235,7 @@ country_event = {
 	
 	option = {
 		name = "EVTOPTA60070"
-		government = hms_government
+		government = democracy
 	}
 }
 
@@ -237,7 +246,11 @@ country_event = {
 	picture = "Administration"
 	
 	trigger = {
-		government = democracy
+		NOT = {has_country_flag = verona_conference}
+		OR = {
+			government = democracy
+			government = democracy2
+		}
 		vote_franschise = none_voting		
 		OR = {
 			ruling_party_ideology = conservative
@@ -263,7 +276,11 @@ country_event = {
 	picture = "Administration"
 	
 	trigger = {
-		government = democracy
+		NOT = {has_country_flag = verona_conference}
+		OR = {
+			government = democracy
+			government = democracy2
+		}
 		vote_franschise = none_voting
 		OR = {
 			ruling_party_ideology = liberal
@@ -289,7 +306,11 @@ country_event = {
 	picture = "Administration"
 	
 	trigger = {
-		government = democracy
+		NOT = {has_country_flag = verona_conference}
+		OR = {
+			government = democracy
+			government = democracy2
+		}
 		vote_franschise = none_voting
 		OR = {
 			ruling_party_ideology = socialist
@@ -315,7 +336,11 @@ country_event = {
 	picture = "Administration"
 	
 	trigger = {
-		government = democracy
+		NOT = {has_country_flag = verona_conference}
+		OR = {
+			government = democracy
+			government = democracy2
+		}
 		vote_franschise = none_voting
 		ruling_party_ideology = fascist
 		civilized = yes
@@ -328,6 +353,7 @@ country_event = {
 	option = {
 		name = "EVTOPTA60080"
 		government = fascist_dictatorship
+		ruling_party_ideology = fascist
 	}
 }
 
@@ -338,16 +364,44 @@ country_event = {
 	picture = "Administration"
 	
 	trigger = {
+		NOT = {has_country_flag = verona_conference}
 		upper_house_composition = party_appointed
 		ruling_party_ideology = liberal 
 	}
 	
 	mean_time_to_happen = {
-		days = 0
+		months = 1
 	}
 	
 	option = {
 		name = "EVTOPTA60140"
 		political_reform = appointed
+	}
+}
+
+country_event = {
+	id = 60150
+	title = "EVTNAME60150"
+	desc = "EVTDESC60150"
+	picture = "Unite"
+	
+	trigger = {
+		NOT = {has_country_flag = verona_conference}
+		has_country_modifier = female_suffrage
+		NOT = {
+			OR = {
+				vote_franschise = universal_weighted_voting
+				vote_franschise = universal_voting
+			}	
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+	
+	option = {
+		name = "EVTOPTA60150"
+		remove_country_modifier = female_suffrage
 	}
 }

@@ -1,10 +1,7 @@
-owner = SVF
-controller = SVF
-add_core = SVF
-add_core = BHR
-add_core = QAT
-add_core = NEJ
-trade_goods = fish
-terrain = semidesert
-life_rating = 34
-colonial = 2
+owner = ITA
+controller = ITA
+add_core = ABU
+
+
+trade_goods = grain
+life_rating = 35

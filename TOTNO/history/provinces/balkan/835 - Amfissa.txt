@@ -1,12 +1,8 @@
-owner = ATH
-controller = ATH
-add_core = ATH
-add_core = BYZ
+owner = GRE
+controller = GRE
 add_core = GRE
+
+
+
 trade_goods = cotton
-life_rating = 40
-state_building = {
-    level = 1
-    building = fabric_factory
-    upgrade = yes
-}
+life_rating = 35

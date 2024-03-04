@@ -1,8 +1,9 @@
-owner = NET
-controller = NET
+owner = AST
+controller = AST
 add_core = AST
-colonial = 2
-trade_goods = wool
-terrain = savanna
-life_rating = 32
 
+
+
+trade_goods = wool
+life_rating = 30
+ 

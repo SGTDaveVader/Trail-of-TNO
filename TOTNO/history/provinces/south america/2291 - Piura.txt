@@ -1,7 +1,5 @@
-owner = CJM
-controller = CJM
-add_core = CJM
-add_core = INC
-trade_goods = fish
- 
-life_rating = 32
+owner = PEU
+controller = PEU
+add_core = PEU
+trade_goods = oil
+life_rating = 35

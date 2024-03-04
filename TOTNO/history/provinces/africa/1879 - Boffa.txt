@@ -1,6 +1,6 @@
-owner = JAL
-controller = JAL
-add_core = GBU
-add_core = JAL
-trade_goods = fish
-life_rating = 30
+owner = AF3
+controller = AF3
+add_core = AF3
+
+trade_goods = fruit
+life_rating = 15

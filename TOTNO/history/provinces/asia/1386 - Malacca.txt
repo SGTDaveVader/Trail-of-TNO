@@ -1,6 +1,9 @@
-owner = NET
-controller = NET
-add_core = JOH
-trade_goods = tropical_wood
-life_rating = 37
-colonial = 2
+
+owner = SIA
+controller = SIA
+add_core = SIA
+
+
+
+trade_goods = rubber
+life_rating = 30

@@ -1,3 +1,5 @@
-add_core = EQG
-trade_goods = fruit
-life_rating = 15
+owner = IBE
+controller = IBE
+trade_goods = wool
+life_rating = 35
+colonial = 2

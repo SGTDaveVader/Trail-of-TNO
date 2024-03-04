@@ -1,5 +1,6 @@
-add_core = LUN
-terrain = savanna
-trade_goods = grain
-life_rating = 10
+owner = SGA
+controller = SGA
+add_core = ANG
 colonial = 2
+trade_goods = grain
+life_rating = 15

@@ -1,8 +1,10 @@
-owner = PNJ
-controller = PNJ
 
-add_core = PNJ
-add_core = HND
-trade_goods = cattle
+
+
+
+trade_goods = tea
 life_rating = 32
 
+owner = HND
+controller = HND
+add_core = PAK

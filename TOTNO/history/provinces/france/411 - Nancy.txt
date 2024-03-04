@@ -1,5 +1,8 @@
-owner = LOR
-controller = LOR
-add_core = LOR
+owner = BRG
+controller = BRG
+add_core = FRA
+
+
 trade_goods = dye
 life_rating = 32
+2161.1.1 = { railroad = 3 }

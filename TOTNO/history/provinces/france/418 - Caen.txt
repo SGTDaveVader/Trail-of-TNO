@@ -1,13 +1,23 @@
-owner = IRE
-controller = IRE
-add_core = IRE
+owner = FRA
+controller = FRA
 add_core = FRA
-trade_goods = cattle
+
+
+trade_goods = cotton
 life_rating = 32
 naval_base = 2
-
-state_building = {
-    level = 3
-    building = canned_food_factory
-    upgrade = yes
+#state_building = {
+#	level = 1
+#	building = regular_clothes_factory
+#	upgrade = yes
+#}
+2161.1.1 = {
+	state_building = {
+		level = 1
+		building = ammunition_factory
+		upgrade = yes
+	}
+}
+2161.1.1 = { 
+	railroad = 3
 }

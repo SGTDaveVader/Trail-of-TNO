@@ -1,7 +1,8 @@
-owner = MGL
-controller = MGL
-add_core = GOL
-add_core = MGL
-add_core = RUS
+owner = R02
+controller = R02
+add_core = R02
+
+
+
 trade_goods = cattle
 life_rating = 35

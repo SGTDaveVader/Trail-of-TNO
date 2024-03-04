@@ -1,6 +1,16 @@
-owner = SCA
-controller = SCA
-add_core = BER
+
+owner = HND
+controller = HND
 add_core = HND
-trade_goods = fish
+
+
+
+
+trade_goods = cotton
 life_rating = 32
+
+party_loyalty = {
+	ideology = socialist
+	loyalty_value = 30
+}
+add_core = BER

@@ -1,7 +1,12 @@
-owner= RMR
-controller = RMR
-add_core = RMR
+owner = ITA
+controller = ITA
+add_core = SAR
+add_core = ITA
 trade_goods = fruit
 life_rating = 35
-
-
+2161.1.1 = {
+	controller = ITA
+	owner = ITA
+	add_core = ITA
+}
+2161.1.1 = { railroad = 3 }

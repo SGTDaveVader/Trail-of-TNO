@@ -1,6 +1,8 @@
-owner = MGL
-controller = MGL
-add_core = GOL
-add_core = MGL
+owner = MSC
+controller = MSC
+add_core = MSC
+
+fort = 2
+
 trade_goods = cattle
 life_rating = 35

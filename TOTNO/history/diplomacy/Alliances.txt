@@ -1,28 +1,77 @@
-#South German Alliances
-alliance = {
-    first = BAV
-    second = BAD
-    start_date = 1836.1.1 #1386.9.5
-    end_date = 1936.1.1
-}
+alliance=
+	{
+		first="JAP"
+		second="AHG"
+		start_date="1962.1.1"
+	}
 
-alliance = {
-    first = BAV
-    second = WUR
-    start_date = 1836.1.1 #1386.9.5
-    end_date = 1936.1.1
-}
+alliance=
+	{
+		first="PER"
+		second="IRQ"
+		start_date="1962.1.1"
+	}
 
-alliance = {
-    first = BAD
-    second = WUR
-    start_date = 1836.1.1 #1386.9.5
-    end_date = 1936.1.1
-}
-alliance = {
-    first = BAV
-    second = LOR
-    start_date = 1836.1.1 #1386.9.5
-    end_date = 1936.1.1
-}
+alliance=
+	{
+		first="BRG"
+		second="BRI"
+		start_date="1962.1.1"
+	}
 
+alliance=
+	{
+		first="COR"
+		second="ENG"
+		start_date="1962.1.1"
+	}
+
+alliance=
+	{
+		first="NAV"
+		second="FED"
+		start_date="1962.1.1"
+	}
+
+
+alliance=
+	{
+		first="USA"
+		second="PHI"
+		start_date="1962.1.1"
+	}
+
+alliance=
+	{
+		first="NGA"
+		second="CAR"
+		start_date="1962.1.1"
+	}
+
+alliance=
+	{
+		first="PAK"
+		second="BEN"
+		start_date="1962.1.1"
+	}
+
+alliance=
+	{
+		first="EGA"
+		second="WGA"
+		start_date="1962.1.1"
+	}
+
+alliance=
+	{
+		first="EGA"
+		second="SGA"
+		start_date="1962.1.1"
+	}
+
+alliance=
+	{
+		first="WGA"
+		second="SGA"
+		start_date="1962.1.1"
+	}

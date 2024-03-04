@@ -1,8 +1,8 @@
-owner = SVF
-controller = SVF
-add_core = SVF
+
+owner = NEJ
+controller = NEJ
 add_core = NEJ
+
+
 trade_goods = grain
 life_rating = 35
-terrain = semidesert
-colonial = 2

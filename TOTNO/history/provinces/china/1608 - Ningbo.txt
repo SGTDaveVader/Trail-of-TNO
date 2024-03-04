@@ -1,6 +1,8 @@
-owner = MAO
-controller = MAO
-add_core = MAO
+owner = CHI
+controller = CHI
 add_core = CHI
-trade_goods = cotton
+
+
+
+trade_goods = timber
 life_rating = 32

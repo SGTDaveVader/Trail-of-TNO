@@ -1,5 +1,6 @@
 trade_goods = wool
 life_rating = 15
-terrain = mountain
-colonial = 1
-
+add_core = SAF
+owner = SAF
+controller = SAF
+fort = 2

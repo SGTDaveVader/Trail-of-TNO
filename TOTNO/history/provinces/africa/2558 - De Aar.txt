@@ -1,5 +1,7 @@
-trade_goods = fruit
-life_rating = 15
-terrain = savanna
-colonial = 1
 
+
+add_core = SAF
+trade_goods = fruit
+life_rating = 35
+owner = SAF
+controller = SAF

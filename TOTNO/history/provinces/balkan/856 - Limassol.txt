@@ -1,7 +1,10 @@
-owner = JER
-controller = JER
-add_core = JER
-add_core = CYP
-trade_goods = fruit
+owner = ITA
+controller = ITA
+add_core = TUR
+
+
+
+
+
+trade_goods = sulphur
 life_rating = 35
-terrain = mountain

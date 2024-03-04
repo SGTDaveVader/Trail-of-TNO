@@ -1,14 +1,30 @@
-capital = 1557
+civilized = yes
+capital = 2062
 primary_culture = beifaren
-culture = uighur
-religion = sunni
+religion = protestant
 government = absolute_monarchy
 plurality = 0.0
-nationalvalue = nv_tradition
-literacy = 0.01
-non_state_culture_literacy = 0.01
+nationalvalue = nv_order
+literacy = 0.1
+non_state_culture_literacy = 0.1
+ 
 
-slavery = yes_slavery
+ruling_party = XBI_reactionary
+upper_house = {
+	fascist = 0
+	liberal = 10
+	conservative = 0
+	reactionary = 100
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
+}
+
+# Starting Consciousness
+consciousness = 0
+nonstate_consciousness = 0
+
+slavery = no_slavery
 upper_house_composition = appointed
 vote_franschise = none_voting
 public_meetings = no_meeting
@@ -22,41 +38,39 @@ work_hours = no_work_hour_limit
 safety_regulations = no_safety
 health_care = no_health_care
 unemployment_subsidies = no_subsidies
-pensions = no_pensions
+pensions = no_pensions 
 school_reforms = no_schools
 
-# New Reforms
-conscription = no_draft
- 
 
-child_labor = child_labor_legal
-citizens_rights = primary_culture_only
-border_policy = closed_borders
-
-ruling_party = CHI_conservative
-upper_house = {
-    fascist = 0
-    liberal = 0
-    conservative = 75
-    reactionary = 25
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
-}
+	oob = "XBI_oob.txt"
 
 
-govt_flag = {
-    government = presidential_dictatorship
-    flag = theocracy
-}
+post_nelsonian_thought = 1
+clipper_design = 1
+naval_design_bureaus = 1
+alphabetic_flag_signaling = 1
+the_command_principle = 1
 
-foreign_weapons = yes_foreign_weapons
+classicism_n_early_romanticism = 1
+late_enlightenment_philosophy = 1
+malthusian_thought = 1
+enlightenment_thought = 1
+introspectionism = 1
 
-# Technologies
+private_banks = 1
+no_standard = 1
+early_classical_theory_and_critique = 1
+freedom_of_trade = 1
+guild_based_production = 1
+
+post_napoleonic_thought = 1
 flintlock_rifles = 1
+#bronze_muzzle_loaded_artillery = 1
+#military_staff_system = 1
+army_command_principle = 1
 
-# Starting Consciousness
-consciousness = 0
-nonstate_consciousness = 0
+water_wheel_power = 1
+publishing_industry = 1
+mechanized_mining = 1
 
- tax_policy = low_taxes
+basic_chemistry = 1

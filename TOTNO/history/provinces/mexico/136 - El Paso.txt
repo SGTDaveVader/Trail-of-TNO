@@ -1,7 +1,7 @@
-owner = MEX
-controller = MEX
-add_core = MEX
- 
-trade_goods = cotton
-life_rating = 35
-colonial = 2
+owner = USA
+controller = USA
+
+add_core = USA
+add_core = TEX
+trade_goods = cattle
+life_rating = 35

@@ -1,6 +1,6 @@
-owner = RMR
-controller = RMR
-add_core = RMR
-add_core = SRD
-trade_goods = grain
+owner = ITA
+controller = ITA
+add_core = SAR
+add_core = ITA
+trade_goods = coal
 life_rating = 35

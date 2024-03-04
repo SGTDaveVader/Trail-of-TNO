@@ -1,4 +1,7 @@
-trade_goods = fish
-life_rating = 15
-terrain = coral_island
-add_core = TMT
+owner = SWI
+controller = SWI
+add_core = SWI
+trade_goods = coal
+life_rating = 40
+
+

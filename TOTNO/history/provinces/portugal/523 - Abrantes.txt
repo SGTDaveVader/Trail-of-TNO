@@ -1,6 +1,6 @@
-owner = ADL
-controller = ADL
-add_core = ADL
+owner = IBE
+controller = IBE
 add_core = IBE
+add_core = POR
 trade_goods = grain
 life_rating = 35

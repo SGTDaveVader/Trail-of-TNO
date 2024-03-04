@@ -1,7 +1,8 @@
-owner = TKM
-controller = TKM
-add_core = TKM
-add_core = SVF
+owner = PER
+controller = PER
 add_core = PER
-trade_goods = iron
+
+
+
+trade_goods = wool
 life_rating = 35

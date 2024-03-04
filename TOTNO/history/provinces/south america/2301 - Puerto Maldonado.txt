@@ -1,7 +1,5 @@
-owner = CUS
-controller = CUS
-add_core = CUS
-add_core = INC
-trade_goods = fruit
-terrain = jungle
-life_rating = 31
+owner = PEU
+controller = PEU
+add_core = PEU
+trade_goods = timber
+life_rating = 30

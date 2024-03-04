@@ -1,6 +1,8 @@
-owner = SCA
-controller = SCA
-add_core = NEW
+
+
+
 trade_goods = coal
-life_rating = 31
-colonial = 2
+life_rating = 35
+owner = CAN
+controller = CAN
+add_core = CAN

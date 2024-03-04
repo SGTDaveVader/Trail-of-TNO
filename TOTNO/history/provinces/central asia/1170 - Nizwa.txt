@@ -1,6 +1,8 @@
 owner = OMA
 controller = OMA
 add_core = OMA
-trade_goods = opium
-life_rating = 32
-terrain = semidesert
+
+
+
+trade_goods = oil
+life_rating = 35

@@ -1,6 +1,11 @@
-owner = LUB
-controller = LUB
-add_core = LUB
+owner = BLT
+controller = BLT
+add_core = BLT
 add_core = EST
+
+
+
+
+
 trade_goods = grain
 life_rating = 35

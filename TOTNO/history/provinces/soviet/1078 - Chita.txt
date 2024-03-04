@@ -1,6 +1,7 @@
-owner = MGL
-controller = MGL
-add_core = MCK
-add_core = MGL
+owner = NKV
+controller = NKV
+add_core = NKV
+railroad = 2
+
 trade_goods = timber
 life_rating = 35

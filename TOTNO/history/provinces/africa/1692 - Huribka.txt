@@ -1,5 +1,7 @@
-owner = MOR
-controller = MOR
+
+owner = IBE
+controller = IBE
 add_core = MOR
-trade_goods = grain
+#trade_goods = grain
+trade_goods = sulphur
 life_rating = 35

@@ -1,6 +1,35 @@
-owner = MGL
-controller = MGL
-add_core = OIR
-add_core = MGL
+owner = R09
+controller = R09
+add_core = R09
+
+railroad = 2
+
+
+
 trade_goods = iron
 life_rating = 35
+state_building = {
+	level = 2
+	building = artillery_factory
+	upgrade = yes
+}
+state_building = {
+	level = 2
+	building = ammunition_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = explosives_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = steel_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = small_arms_factory
+	upgrade = yes
+}

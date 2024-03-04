@@ -1,6 +1,8 @@
-owner = NET
-controller = NET
+owner = BRG
+controller = BRG
+add_core = FRA
+
+
 trade_goods = coal
 life_rating = 32
-railroad = 1
-fort = 2
+2161.1.1 = { railroad = 3 }

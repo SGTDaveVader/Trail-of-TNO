@@ -1,6 +1,6 @@
-owner = BRN
-controller = BRN
-add_core = BRN
+owner = GGE
+controller = GGE
+add_core = GGE
 add_core = GER
 trade_goods = cattle
-life_rating = 40
+life_rating = 35

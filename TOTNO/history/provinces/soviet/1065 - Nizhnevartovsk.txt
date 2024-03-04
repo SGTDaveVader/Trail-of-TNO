@@ -1,3 +1,9 @@
+owner = R08
+controller = R08
+add_core = R08
+
+railroad = 2
+
+
 trade_goods = timber
-terrain = boreal
 life_rating = 15

@@ -1,7 +1,8 @@
-owner = ATH
-controller = ATH
-add_core = ATH
-add_core = BYZ
+owner = GRE
+controller = GRE
 add_core = GRE
+
+
+
 trade_goods = grain
-life_rating = 40
+life_rating = 35

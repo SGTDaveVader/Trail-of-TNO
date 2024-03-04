@@ -1,9 +1,9 @@
-owner = JER
-controller = JER
-add_core = JER
-add_core = LBN
+owner = IIS
+controller = IIS
+add_core = ISR
+
+
+
 trade_goods = fruit
 life_rating = 35
-terrain = dryhills
-
 

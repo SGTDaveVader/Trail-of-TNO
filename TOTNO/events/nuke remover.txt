@@ -1,0 +1,52 @@
+#lol
+
+country_event = {
+	id = 500073
+	title = "removing nuke clouds"
+	desc = "just what it says on the tin"
+
+	trigger = {#I dont think this or block works..
+		NOT = {has_country_modifier = nuke_remove_timer}
+		tag = JAN
+	}
+
+	mean_time_to_happen = {
+		days = 1
+	}
+
+	option = {
+		name = "bye!"
+		add_country_modifier = { name = nuke_remove_timer duration = 30 }
+		any_country = {
+			limit = {
+				any_owned_province = {
+					has_province_flag = disease 
+					NOT = {has_province_modifier = nuke_light_1}
+					NOT = {has_province_modifier = nuke_light_2}
+					NOT = {has_province_modifier = nuke_light_3}
+					NOT = {has_province_modifier = nuke_medium_1}
+					NOT = {has_province_modifier = nuke_medium_2}
+					NOT = {has_province_modifier = nuke_medium_3}
+					NOT = {has_province_modifier = nuke_heavy_1}
+					NOT = {has_province_modifier = nuke_heavy_2}
+					NOT = {has_province_modifier = nuke_heavy_3}
+				}
+			}
+			any_owned = {
+				limit = {
+					has_province_flag = disease 
+					NOT = {has_province_modifier = nuke_light_1}
+					NOT = {has_province_modifier = nuke_light_2}
+					NOT = {has_province_modifier = nuke_light_3}
+					NOT = {has_province_modifier = nuke_medium_1}
+					NOT = {has_province_modifier = nuke_medium_2}
+					NOT = {has_province_modifier = nuke_medium_3}
+					NOT = {has_province_modifier = nuke_heavy_1}
+					NOT = {has_province_modifier = nuke_heavy_2}
+					NOT = {has_province_modifier = nuke_heavy_3}
+				}
+				clr_province_flag = disease
+			}
+		}
+	}
+}

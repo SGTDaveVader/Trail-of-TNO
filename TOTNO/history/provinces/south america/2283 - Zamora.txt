@@ -1,7 +1,6 @@
-owner = CJM
-controller = CJM
-add_core = CJM
-add_core = INC
-trade_goods = wool
-terrain = montane_forest
-life_rating = 33
+owner = ECU
+controller = ECU
+add_core = ECU
+add_core = GCO
+trade_goods = grain
+life_rating = 30

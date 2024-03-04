@@ -1,5 +1,6 @@
-owner= FRA
-controller = FRA
-add_core = PHL
+owner = PHR
+controller = PHR
+add_core = PHI
+add_core = PHR
 trade_goods = fish
-life_rating = 35
+life_rating = 30

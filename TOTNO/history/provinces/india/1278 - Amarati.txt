@@ -1,7 +1,12 @@
-owner = HYD
-controller = HYD
-add_core = HYD
-add_core = NAG
+
+owner = HND
+controller = HND
 add_core = HND
-trade_goods = cattle
+
+
+
+
+trade_goods = tea
 life_rating = 32
+
+add_core = HYD

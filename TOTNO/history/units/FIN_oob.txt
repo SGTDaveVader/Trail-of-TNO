@@ -1,45 +1,240 @@
+RAR = {
+	value = -150
+	level = 0
+}
 army = {
-    name = "Suomen Kaarti"
-    location = 343
-    regiment = {
-        name= "I. Suomen Tarkk’ampujapataljoona"
-        type = guard
-        home = 343
-    }
+	name = "1a Armata" #done
+	location = 345
+	regiment = {
+		name= "1.1a Bersaglieri"
+		type = infantry
+		home = 345
+	}
 
-    regiment = {
-        name= "II. Suomen Tarkk’ampujapataljoona"
-        type = infantry
-        home = 345
-    }
+	regiment = {
+		name= "2.1a Bersaglieri"
+		type = infantry
+		home = 345
+	}
 
-    regiment = {
-        name= "III. Suomen Tarkk’ampujapataljoona"
-        type = infantry
-        home = 346
-    }
+	regiment = {
+		name= "3.1a Bersaglieri"
+		type = infantry
+		home = 345
+	}
 
+	regiment = {
+		name= "1.2a Bersaglieri"
+		type = infantry
+		home = 345
+	}
+
+	regiment = {
+		name= "2.2a Bersaglieri"
+		type = artillery
+		home = 345
+	}
+
+	regiment = {
+		name= "3.2a Bersaglieri"
+		type = artillery
+		home = 345
+	}
+
+	regiment = {
+		name= "1.1a Granatieri"
+		type = artillery
+		home = 343
+	}
+
+	regiment = {
+		name= "2.1a Granatieri"
+		type = artillery
+		home = 343
+	}
+
+	regiment = {
+		name= "3.1a Granatieri"
+		type = artillery
+		home = 343
+	}
+
+	regiment = {
+		name= "4.1a Granatieri"
+		type = hussar
+		home = 343
+	}
+}
+
+army = {
+	name = "1a Armata" #done
+	location = 343
+	regiment = {
+		name= "1.1a Bersaglieri"
+		type = infantry
+		home = 343
+	}
+
+	regiment = {
+		name= "2.1a Bersaglieri"
+		type = infantry
+		home = 343
+	}
+
+	regiment = {
+		name= "3.1a Bersaglieri"
+		type = infantry
+		home = 340
+	}
+
+	regiment = {
+		name= "1.2a Bersaglieri"
+		type = infantry
+		home = 339
+	}
+
+	regiment = {
+		name= "2.2a Bersaglieri"
+		type = artillery
+		home = 339
+	}
+
+	regiment = {
+		name= "3.2a Bersaglieri"
+		type = artillery
+		home = 339
+	}
+
+	regiment = {
+		name= "1.1a Granatieri"
+		type = artillery
+		home = 341
+	}
+
+	regiment = {
+		name= "2.1a Granatieri"
+		type = artillery
+		home = 341
+	}
+
+	regiment = {
+		name= "3.1a Granatieri"
+		type = artillery
+		home = 342
+	}
+
+	regiment = {
+		name= "4.1a Granatieri"
+		type = hussar
+		home = 342
+	}
+}
+
+army = {
+	name = "1a Armata" #done
+	location = 339
+	regiment = {
+		name= "1.1a Bersaglieri"
+		type = infantry
+		home = 346
+	}
+
+	regiment = {
+		name= "2.1a Bersaglieri"
+		type = infantry
+		home = 346
+	}
+
+	regiment = {
+		name= "3.1a Bersaglieri"
+		type = infantry
+		home = 346
+	}
+
+	regiment = {
+		name= "1.2a Bersaglieri"
+		type = infantry
+		home = 346
+	}
+
+	regiment = {
+		name= "2.2a Bersaglieri"
+		type = artillery
+		home = 346
+	}
+
+	regiment = {
+		name= "3.2a Bersaglieri"
+		type = artillery
+		home = 346
+	}
+
+	regiment = {
+		name= "1.1a Granatieri"
+		type = artillery
+		home = 994
+	}
+
+	regiment = {
+		name= "2.1a Granatieri"
+		type = artillery
+		home = 994
+	}
+
+	regiment = {
+		name= "3.1a Granatieri"
+		type = artillery
+		home = 994
+	}
+
+	regiment = {
+		name= "4.1a Granatieri"
+		type = hussar
+		home = 994
+	}
 }
 
 navy = {
-    name = "Suomen Meriekipaas"
-    location = 343 #Helsinki
-    ship = {
-        name= "Rurik"
-        type = commerce_raider
-    }
-    ship = {
-        name= "Kalevala"
-        type = commerce_raider
-    }
-}
-
-
-leader = {
-    name = "Alexander Sergeyevich Menshikov"
-    picture = european_general_24
-    date = 1810.1.1
-    type = land
-    personality = inept
-    background = incompetent
+	name = "Patrol Fleet"
+	location = 343
+	ship = {
+		name = "Transport"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Transport"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Transport"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Transport"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Transport"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Patrol"
+		type = frigate
+	}
+	ship = {
+		name = "Patrol"
+		type = frigate
+	}
+	ship = {
+		name = "Patrol"
+		type = frigate
+	}
+	ship = {
+		name = "Patrol"
+		type = frigate
+	}
+	ship = {
+		name = "Patrol"
+		type = frigate
+	}
 }

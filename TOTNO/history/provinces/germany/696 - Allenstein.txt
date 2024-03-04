@@ -1,8 +1,6 @@
-owner = POL
-controller = POL
-add_core = POL
-add_core = PLC
-
-
+owner = SGE
+controller = SGE
+add_core = SGE
+add_core = GER
 trade_goods = cattle
-life_rating = 38
+life_rating = 35

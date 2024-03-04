@@ -1,7 +1,7 @@
-owner = CJM
-controller = CJM
-add_core = CJM
-add_core = INC
-trade_goods = rubber
-terrain = montane_forest
-life_rating = 33
+owner = PEU
+controller = PEU
+add_core = ECU
+add_core = PEU
+add_core = GCO
+trade_goods = timber
+life_rating = 30

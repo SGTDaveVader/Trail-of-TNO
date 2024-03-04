@@ -1,6 +1,11 @@
-owner = NET
-controller = NET
-add_core = SRI
-trade_goods = fruit
-life_rating = 35
-colonial = 2
+
+owner = CBR
+controller = CBR
+
+add_core = GWA
+
+
+
+trade_goods = fish
+#trade_goods = rubber
+life_rating = 32

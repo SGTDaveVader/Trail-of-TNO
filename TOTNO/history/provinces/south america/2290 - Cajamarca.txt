@@ -1,6 +1,5 @@
-owner = CJM
-controller = CJM
-add_core = CJM
-add_core = INC
-trade_goods = coal
-life_rating = 35
+owner = PEU
+controller = PEU
+add_core = PEU
+trade_goods = wool
+life_rating = 30

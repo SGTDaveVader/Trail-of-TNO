@@ -1,8 +1,7 @@
-owner = LUB
-controller = LUB
+owner = DAI
+controller = DAI
 add_core = DAI
+
+
 trade_goods = grain
-life_rating = 40
-naval_base = 1
-fort = 1
-colonial = 1
+life_rating = 30

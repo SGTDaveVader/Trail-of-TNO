@@ -1,7 +1,8 @@
-owner = SCA
-controller = SCA
-add_core = GAZ
-trade_goods = fish
-terrain = savanna
+
+
+trade_goods = grain
 life_rating = 35
-colonial = 1
+owner = EGA
+controller = REB
+add_core = MOZ
+colonial = 2

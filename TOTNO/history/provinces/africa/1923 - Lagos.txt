@@ -1,6 +1,6 @@
-owner = OYO
-controller = OYO
-add_core = OYO
-trade_goods = fish
-life_rating = 35
-
+trade_goods = rubber
+life_rating = 15
+owner = CAR
+controller = CAR
+add_core = CAR
+add_core = NGA

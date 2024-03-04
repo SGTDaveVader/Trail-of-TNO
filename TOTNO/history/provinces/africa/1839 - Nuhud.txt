@@ -1,8 +1,8 @@
-owner = EGY
-controller = EGY
-add_core = EGY
-add_core = DAR
+owner = IGY
+controller = IGY
 add_core = SUD
-trade_goods = cattle
-terrain = semidesert
-life_rating = 10
+colonial = 2
+
+
+trade_goods = grain
+life_rating = 30

@@ -1,7 +1,11 @@
-owner = DAI
-controller = DAI
-add_core = DAI
-add_core = CHI
+owner = JAP
+controller = JAP
 add_core = GXI
-trade_goods = grain
+colonial = 2
+
+
+trade_goods = silk
 life_rating = 32
+
+
+

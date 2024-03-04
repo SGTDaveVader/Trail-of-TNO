@@ -1,6 +1,12 @@
-owner = BUN
-controller = BUN
-add_core = BUN
+
+owner = HND
+controller = HND
 add_core = HND
+
+
+
+
 trade_goods = dye
 life_rating = 32
+
+add_core = NAG

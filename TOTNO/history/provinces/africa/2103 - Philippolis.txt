@@ -1,5 +1,7 @@
-owner = BSH
-controller = BSH
-add_core = BSH
-trade_goods = cattle
+
+trade_goods = iron
 life_rating = 35
+owner = SAF
+controller = SAF
+add_core = ORA
+civilized = 2

@@ -1,5 +1,0 @@
-#Relations
-
-SWI = {
-    value = 200
-}

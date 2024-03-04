@@ -1,6 +1,5 @@
-owner = BRZ
-controller = BRZ
-add_core = BRZ
+owner = CBR
+controller = CBR
 trade_goods = fruit
-terrain = jungle
 life_rating = 35
+colonial = 2

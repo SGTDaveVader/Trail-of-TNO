@@ -1,24 +1,6 @@
-owner = QUE
-controller = QUE
-add_core = QUE
-add_core = IRO
+owner = USA
+controller = USA
+add_core = USA
 trade_goods = grain
 life_rating = 35
-
-state_building = {
-    level = 1 
-    building = small_arms_factory
-    upgrade = yes
-}
-
-state_building = {
-    level = 1
-    building = lumber_mill
-    upgrade = yes
-}
-
-state_building = {
-    level = 1 
-    building = fertilizer_factory
-    upgrade = yes
-}
+2161.1.1 = { railroad = 3 }

@@ -1,6 +1,11 @@
-owner = BAS
-controller = BAS
-add_core = BAS
+
+owner = HND
+controller = HND
 add_core = HND
+
+
+
+add_core = BAS
+
 trade_goods = grain
 life_rating = 32

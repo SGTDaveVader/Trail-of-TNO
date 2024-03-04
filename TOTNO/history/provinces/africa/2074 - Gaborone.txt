@@ -1,4 +1,6 @@
-add_core = TSW
-terrain = savanna
 trade_goods = wool
 life_rating = 15
+owner = SAF
+controller = SAF
+add_core = SAF
+#colonial = 2

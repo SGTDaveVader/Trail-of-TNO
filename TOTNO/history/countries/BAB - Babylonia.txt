@@ -1,12 +1,13 @@
+civilized = yes
 capital = 926
 primary_culture = mashriqi
 culture = bedouin
-religion = sunni
+religion = protestant
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_order
-literacy = 0.01
-non_state_culture_literacy = 0.01
+literacy = 0.28
+civilized = no
 prestige = 10
 
 # Political reforms
@@ -25,29 +26,20 @@ work_hours = fourteen_hours
 safety_regulations = trinket_safety
 health_care = trinket_health_care
 unemployment_subsidies = no_subsidies
-pensions = no_pensions
+pensions = no_pensions 
 school_reforms = no_schools
 
-# New Reforms
-conscription = two_year_draft
- 
-
-child_labor = child_labor_legal
-citizens_rights = primary_culture_only
-border_policy = open_borders
-
 ruling_party = BAB_conservative
-last_election = 1834.1.1
+last_election = 1960.1.1
 upper_house = {
-    fascist = 0
-    liberal = 35
-    conservative = 55
-    reactionary = 10
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+	fascist = 0
+	liberal = 35
+	conservative = 55
+	reactionary = 10
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
-
 
 # Technologies
 flintlock_rifles = 1
@@ -57,11 +49,26 @@ no_standard = 1
 guild_based_production = 1
 classicism_n_early_romanticism = 1
 late_enlightenment_philosophy = 1
+water_wheel_power = 1
 
 #Inventions
 
 # Starting Consciousness
 consciousness = 2
 nonstate_consciousness = 1
+2059.1.1 = {
+	oob = "/1861/BAB_oob.txt"
+}
+2059.1.1 = {
+# Technologies
+	post_napoleonic_thought = 1
+	flintlock_rifles = 1
+	bronze_muzzle_loaded_artillery = 1
+	no_standard = 1
+	guild_based_production = 1
+	classicism_n_early_romanticism = 1
+	late_enlightenment_philosophy = 1
+	water_wheel_power = 1
 
- tax_policy = low_taxes
+#Inventions
+}

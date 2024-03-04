@@ -1,11 +1,27 @@
-owner= RMR
-controller = RMR
-add_core = RMR
+owner = ITA
+controller = ITA
+add_core = PAP
+add_core = ITA
 trade_goods = fruit
 life_rating = 35
-#state_building = {
-#    level = 1
-#    building = winery
-#    upgrade = yes
-#}
 
+state_building = {
+	level = 1
+	building = artillery_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = ammunition_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = explosives_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = steel_factory
+	upgrade = yes
+}

@@ -1,8 +1,27 @@
-owner = QUE
-controller = QUE
-add_core = QUE
-add_core = IRO
+
+
+state_building = {
+	level = 1
+	building = canned_food_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = electric_gear_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = radio_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = telephone_factory
+	upgrade = yes
+}
 trade_goods = grain
 life_rating = 35
-colonial = 0
-
+owner = CAN
+controller = CAN
+add_core = CAN

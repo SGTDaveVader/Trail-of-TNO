@@ -1,7 +1,8 @@
-owner = NET
-controller = NET
-add_core = NET
-add_core = XHO
-trade_goods = iron
+
+
+add_core = SAF
+trade_goods = coal
 life_rating = 35
-colonial = 2
+owner = SAF
+controller = SAF
+fort = 1

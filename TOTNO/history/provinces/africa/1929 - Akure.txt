@@ -1,7 +1,4 @@
-owner = BEN
-controller = BEN
-add_core = BEN
-add_core = OYO
-add_core = ARO
-trade_goods = grain
-life_rating = 30
+trade_goods = rubber
+life_rating = 15
+add_core = CAR
+add_core = NGA

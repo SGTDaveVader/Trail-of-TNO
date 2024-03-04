@@ -1,12 +1,12 @@
+civilized = yes
 capital = 2512
-primary_culture = zeelander
+primary_culture = british
 religion = protestant
 government = hms_government
 plurality = 0.88
 nationalvalue = nv_liberty
-literacy = 0.01
-non_state_culture_literacy = 0.01
-civilized = yes
+literacy = 0.5
+ 
 
 
 # Political reforms
@@ -25,29 +25,25 @@ work_hours = ten_hours
 safety_regulations = low_safety
 health_care = low_health_care
 unemployment_subsidies = low_subsidies
-pensions = low_pensions
+pensions = low_pensions 
 school_reforms = no_schools
-
-#New Reforms
-conscription = two_year_draft
- 
-
-child_labor = child_labor_legal
-citizens_rights = culture_voting_only
-border_policy = open_borders
-
-
 
 ruling_party = NWZ_conservative
 upper_house = {
-    fascist = 0
-    liberal = 30
-    conservative = 60
-    reactionary = 5
-    anarcho_liberal = 5
-    socialist = 0
-    communist = 0
+	fascist = 0
+	liberal = 30
+	conservative = 60
+	reactionary = 5
+	anarcho_liberal = 5
+	socialist = 0
+	communist = 0
 }
 
- 
- tax_policy = medium_taxes
+2059.1.1 = {
+	oob = "/1861/NZL_oob.txt"
+}
+2059.1.1 = {
+# Technologies
+
+#Inventions
+}

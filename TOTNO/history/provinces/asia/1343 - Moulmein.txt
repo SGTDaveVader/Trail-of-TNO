@@ -1,7 +1,8 @@
-owner = SIA
-controller = SIA
-add_core = SIA
-add_core = KAR
+
+owner = BUR
+controller = BUR
 add_core = BUR
+
+
 trade_goods = grain
-life_rating = 33
+life_rating = 30

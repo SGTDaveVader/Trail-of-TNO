@@ -1,6 +1,10 @@
-owner = BHA
-controller = BHA
-add_core = BHA
+owner = BGE
+controller = BGE
+add_core = BGE
 add_core = AUS
+
+add_core = GER
+
+
 trade_goods = iron
-life_rating = 39
+life_rating = 35

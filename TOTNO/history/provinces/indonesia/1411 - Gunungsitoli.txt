@@ -1,7 +1,7 @@
-owner = NET
-controller = NET
-add_core = ATJ
-add_core = SAK
+owner = EIC
+controller = EIC
+add_core = EIC
 trade_goods = fish
-life_rating = 32
-colonial = 2
+life_rating = 30
+ 
+add_core = ATJ

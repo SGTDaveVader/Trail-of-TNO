@@ -1,8 +1,5 @@
-owner = MGL
-controller = MGL
-add_core = OIR
-add_core = MGL
+trade_goods = fish
+life_rating = 25
+owner = KAZ
+controller = KAZ
 add_core = KAZ
-trade_goods = grain
-railroad = 1
-life_rating = 30

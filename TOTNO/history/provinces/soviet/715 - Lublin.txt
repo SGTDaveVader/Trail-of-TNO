@@ -1,6 +1,9 @@
 owner = POL
 controller = POL
 add_core = POL
-add_core = PLC
-trade_goods = coal
-life_rating = 40
+
+
+
+
+trade_goods = grain
+life_rating = 35

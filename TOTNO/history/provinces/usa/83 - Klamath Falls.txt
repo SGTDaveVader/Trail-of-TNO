@@ -1,7 +1,9 @@
-owner = ELI
-controller = ELI
-add_core = ELI
-trade_goods = timber
+owner = USA
+controller = USA
+
+add_core = USA
+add_core = COL
+trade_goods = fish
 life_rating = 35
-
-
+#add_core = USA
+ 

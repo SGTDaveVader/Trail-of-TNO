@@ -1,6 +1,6 @@
-owner = NGV
-controller = NGV
-add_core = NGV
+owner = BRZ
+controller = BRZ
+add_core = PRG
+add_core = BRZ
 trade_goods = sulphur
-terrain = savanna
-life_rating = 31
+life_rating = 25

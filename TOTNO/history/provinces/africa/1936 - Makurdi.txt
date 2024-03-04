@@ -1,6 +1,7 @@
-owner = ARO
-controller = ARO
-add_core = ARO
-add_core = WRI
+
+
+
 trade_goods = grain
-life_rating = 30
+life_rating = 35
+
+add_core = NGA

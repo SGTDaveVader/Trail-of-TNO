@@ -1,7 +1,9 @@
-owner = AWA
-controller = AWA
-add_core = AWA
+owner = AHG
+controller = AHG
+add_core = AHG
 add_core = HND
+
+
+
 trade_goods = timber
 life_rating = 32
-

@@ -1,7 +1,26 @@
-owner = LUB
-controller = LUB
-add_core = LUB
-add_core = SCA
+owner = GGE
+controller = GGE
+add_core = GGE
 add_core = DEN
-trade_goods = fruit
-life_rating = 39
+trade_goods = cattle
+life_rating = 35
+state_building = {
+	level = 1
+	building = steamer_shipyard
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = clipper_shipyard
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = steel_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = artillery_factory
+	upgrade = yes
+}

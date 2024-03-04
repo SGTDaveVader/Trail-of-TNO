@@ -1,6 +1,5 @@
-owner = SCO
-controller = SCO
-add_core = GBU
-trade_goods = fish
-life_rating = 35
-colonial = 2
+trade_goods = grain
+life_rating = 15
+owner = AF4
+controller = AF4
+add_core = AF4

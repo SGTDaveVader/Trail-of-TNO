@@ -1,7 +1,8 @@
-owner = NOV
-controller = NOV
-add_core = NOV
-add_core = RUS
-trade_goods = precious_metal
-terrain = montane_tundra
-life_rating = 15
+owner = R06
+controller = R06
+add_core = R06
+colonial = 2
+
+
+trade_goods = timber
+life_rating = 35

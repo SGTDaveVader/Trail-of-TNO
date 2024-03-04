@@ -1,7 +1,8 @@
-owner = GON
-controller = GON
-add_core = GON
+owner = IET
+controller = IET
 add_core = ETH
-trade_goods = cattle
-life_rating = 35
 
+
+trade_goods = cattle
+life_rating = 30
+colonial = 2

@@ -1,6 +1,6 @@
-owner = CHC
-controller = CHC
-add_core = CHC
-add_core = INC
-trade_goods = wool
-life_rating = 33
+trade_goods = oil
+life_rating = 20
+owner = SAL
+controller = SAL
+add_core = ALD
+colonial = 2

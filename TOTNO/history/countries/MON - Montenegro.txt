@@ -1,13 +1,13 @@
+civilized = yes
 capital = 2583
 primary_culture = serb
-religion = orthodox
-government = theocracy
+religion = protestant
+government = absolute_monarchy
 plurality = 25.0
 nationalvalue = nv_order
-literacy = 0.01
-non_state_culture_literacy = 0.01
-civilized = yes
-prestige = 4
+literacy = 0.1
+ 
+prestige = 1
 
 
 # Political reforms
@@ -26,29 +26,19 @@ work_hours = no_work_hour_limit
 safety_regulations = no_safety
 health_care = no_health_care
 unemployment_subsidies = no_subsidies
-pensions = no_pensions
+pensions = no_pensions 
 school_reforms = no_schools
-
-# New Reforms
-conscription = one_year_draft
- 
-
-child_labor = child_labor_legal
-citizens_rights = primary_culture_only
-border_policy = open_borders
-
 
 ruling_party = MON_conservative
 upper_house = {
-    fascist = 0
-    liberal = 30
-    conservative = 58
-    reactionary = 12
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+	fascist = 0
+	liberal = 30
+	conservative = 58
+	reactionary = 12
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
-
 
 # Technologies
 post_napoleonic_thought = 1
@@ -63,8 +53,8 @@ guild_based_production = 1
 classicism_n_early_romanticism = 1
 late_enlightenment_philosophy = 1
 enlightenment_thought = 1
-piston_steam_engine = 1
-mechanical_production = 1
+water_wheel_power = 1
+publishing_industry = 1
 
 # Inventions
 
@@ -72,8 +62,4 @@ mechanical_production = 1
 consciousness = 2
 nonstate_consciousness = 0
 
-set_country_flag = theocratic_government
-
-
 oob = "MON_oob.txt"
- tax_policy = medium_taxes

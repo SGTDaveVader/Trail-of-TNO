@@ -1,7 +1,7 @@
-owner = SVF
-controller = SVF
-add_core = SVF
-add_core = HTY
-add_core = GAL
+owner = TUR
+controller = TUR
+add_core = TUR
+
+
 trade_goods = wool
 life_rating = 35

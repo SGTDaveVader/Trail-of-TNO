@@ -1,17 +1,22 @@
-owner = UBR
-controller = UBR
-add_core = UBR
+owner = SWI
+controller = SWI
 add_core = SWI
 trade_goods = fruit
-life_rating = 32
+life_rating = 40
 fort = 1
-party_loyalty = {
-    ideology = liberal
-    loyalty_value = 25
-}
 
 state_building = {
-    level = 1
-    building = steel_factory
-    upgrade = yes
+	level = 1
+	building = steel_factory
+	upgrade = yes
+}
+
+2161.1.1 = { 
+	railroad = 1
+
+	state_building = {
+		level = 1
+		building = fabric_factory
+		upgrade = yes
+ 	}
 }

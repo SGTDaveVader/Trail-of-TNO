@@ -1,6 +1,6 @@
-owner = NET
-controller = NET
-add_core = PRI
-trade_goods = coffee
+owner = USA
+controller = USA
+add_core = HAI
+
+trade_goods = cotton
 life_rating = 35
-colonial = 2

@@ -1,9 +1,15 @@
-owner = ATH
-controller = ATH
-add_core = ATH
-add_core = BYZ
+owner = GRE
+controller = GRE
 add_core = GRE
-trade_goods = fish
-life_rating = 40
-terrain = small_island
 
+
+
+trade_goods = fish
+life_rating = 35
+2161.1.1 = {
+	state_building = {
+		level = 1
+		building = steamer_shipyard
+		upgrade = yes
+	}
+}

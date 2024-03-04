@@ -1,5 +1,6 @@
-owner = MAL
-controller = MAL
-add_core = PPG
-trade_goods = grain
-life_rating = 31
+owner = EIC
+controller = EIC
+add_core = EIC
+trade_goods = fish
+life_rating = 30
+ 

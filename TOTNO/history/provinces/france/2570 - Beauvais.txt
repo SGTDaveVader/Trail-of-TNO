@@ -1,5 +1,7 @@
-owner = FRA
-controller = FRA
+owner = BRG
+controller = BRG
 add_core = FRA
+
+
 trade_goods = grain
 life_rating = 32

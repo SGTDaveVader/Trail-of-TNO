@@ -1,3 +1,6 @@
-add_core = SHK
 trade_goods = wool
 life_rating = 15
+owner = IET
+controller = IET
+add_core = SUD
+colonial = 2

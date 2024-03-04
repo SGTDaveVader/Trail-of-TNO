@@ -1,5 +1,6 @@
-owner = KLM
-controller = KLM
-add_core = KLM
-trade_goods = grain
-life_rating = 31
+trade_goods = coal
+life_rating = 15
+owner = EIC
+controller = EIC
+add_core = EIC
+add_core = BRU

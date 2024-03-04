@@ -1,6 +1,7 @@
-owner = NET
-controller = NET
-add_core = KLM
+owner = EIC
+controller = EIC
+add_core = EIC
 trade_goods = sulphur
-life_rating = 35
-colonial = 2
+life_rating = 30
+ 
+add_core = BRU

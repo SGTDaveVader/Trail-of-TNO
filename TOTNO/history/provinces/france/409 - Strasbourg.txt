@@ -1,7 +1,12 @@
-owner = LOR
-controller = LOR
-add_core = LOR
-add_core = ALS
-trade_goods = grain
-life_rating = 32
+owner = HGE
+controller = HGE
+add_core = HGE
+add_core = GER
 
+
+
+fort = 1
+
+trade_goods = grain
+life_rating = 35
+2161.1.1 = { railroad = 3 }

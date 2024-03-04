@@ -1,8 +1,10 @@
-owner = JER
-controller = JER
-add_core = JER
+owner = IIS
+controller = IIS
 add_core = JOR
+colonial = 2
+
+
+
 trade_goods = wool
-life_rating = 20
-terrain = semidesert
+life_rating = 35
 

@@ -1,7 +1,6 @@
-owner = CHC
-controller = CHC
-add_core = CHC
-add_core = INC
-trade_goods = fish
- 
-life_rating = 31
+owner = CHL
+controller = CHL
+add_core = BOL
+add_core = CHL
+trade_goods = wool
+life_rating = 35

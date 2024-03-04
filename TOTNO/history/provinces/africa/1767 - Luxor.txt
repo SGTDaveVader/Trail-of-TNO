@@ -1,6 +1,9 @@
-owner = EGY
-controller = EGY
+owner = IGY
+controller = IGY
 add_core = EGY
+
+
+
 trade_goods = grain
 life_rating = 35
-terrain = farmlands
+colonial = 2

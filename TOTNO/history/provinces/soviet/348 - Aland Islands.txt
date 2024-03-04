@@ -1,9 +1,10 @@
-owner = SCA
-controller = SCA
-add_core = SCA
-add_core = SWE
+owner = FIN
+controller = FIN
+add_core = FIN
+
+
+
+
 trade_goods = fish
 life_rating = 35
 fort = 1
-naval_base = 2
-terrain = small_island

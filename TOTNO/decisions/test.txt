@@ -1,0 +1,20 @@
+political_decisions = {
+
+	test = {
+		potential = {
+			ai = no
+			always = no
+		}
+		allow = {
+
+		}
+		effect = {
+			any_country = {
+				limit = {NOT = {tag = JAN}}
+				country_event = 1534262634
+			}		
+		}
+	}
+}
+
+

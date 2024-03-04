@@ -1,3 +1,6 @@
-add_core = MTC
+
 trade_goods = grain
-life_rating = 31
+life_rating = 30
+owner = CAN
+controller = CAN
+add_core = CAN

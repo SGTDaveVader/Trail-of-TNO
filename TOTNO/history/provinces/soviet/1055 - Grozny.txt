@@ -1,6 +1,7 @@
-owner = MGL
-controller = MGL
-add_core = CHY
-trade_goods = grain
-life_rating = 35
+owner = COC
+controller = COC
+add_core = COC
 
+railroad = 3
+trade_goods = oil
+life_rating = 40

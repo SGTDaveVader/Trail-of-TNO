@@ -1,7 +1,9 @@
-owner = EGY
-controller = EGY
+owner = IGY
+controller = IGY
 add_core = EGY
+
+
+
 trade_goods = fruit
 life_rating = 35
-terrain = coastal_desert
-naval_base = 1
+colonial = 2

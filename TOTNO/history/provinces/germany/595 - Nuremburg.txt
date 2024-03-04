@@ -1,19 +1,28 @@
-owner = BHA
-controller = BHA
-add_core = BHA
-add_core = BAV
+owner = BGE
+controller = BGE
+add_core = BGE
 add_core = GER
+
 trade_goods = grain
-life_rating = 38
+life_rating = 35
 railroad = 1
 state_building = {
-    level = 1
-    building = lumber_mill
-    upgrade = yes
+	level = 1
+	building = canned_food_factory
+	upgrade = yes
 }
 state_building = {
-    level = 1
-    building = paper_mill
-    upgrade = yes
+	level = 1
+	building = electric_gear_factory
+	upgrade = yes
 }
-
+state_building = {
+	level = 1
+	building = radio_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = telephone_factory
+	upgrade = yes
+}

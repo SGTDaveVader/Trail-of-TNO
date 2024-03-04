@@ -1,2 +1,9 @@
+owner = WA1
+controller = WA1
+add_core = WA1
+railroad = 2
+
+
+
 trade_goods = sulphur
-life_rating = 30
+life_rating = 35

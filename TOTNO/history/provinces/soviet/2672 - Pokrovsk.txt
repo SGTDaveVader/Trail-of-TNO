@@ -1,4 +1,7 @@
-add_core = YAK
+owner = R12
+controller = R12
+add_core = R12
+
+
 trade_goods = timber
 life_rating = 15
-terrain = montane_tundra

@@ -1,7 +1,5 @@
-owner = SCO
-controller = SCO
-add_core = SLE
-trade_goods = grain
-naval_base = 1
+trade_goods = coal
 life_rating = 35
-colonial = 2
+owner = LIB
+controller = LIB
+add_core = LIB

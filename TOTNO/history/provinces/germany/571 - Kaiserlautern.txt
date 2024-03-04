@@ -1,8 +1,9 @@
-owner = PLT
-controller = PLT
-add_core = PLT
+owner = HGE
+controller = HGE
+add_core = HGE
 add_core = GER
-add_core = RHI
 trade_goods = fruit
-life_rating = 38
+life_rating = 35
+2161.1.1 = { railroad = 3 }
 
+fort = 1

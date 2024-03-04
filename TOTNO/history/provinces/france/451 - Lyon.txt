@@ -1,19 +1,25 @@
-owner = LBR
-controller = LBR
-add_core = LBR
-trade_goods = iron
-life_rating = 40
-railroad = 1
+owner = BRG
+controller = BRG
+add_core = FRA
 
+
+trade_goods = grain
+life_rating = 35
 state_building = {
-    level = 1
-    building = winery
-    upgrade = yes
+	level = 1
+	building = winery
+	upgrade = yes
 }
-
-state_building = {
-    level = 2
-    building = luxury_clothes_factory
-    upgrade = yes
+2161.1.1 = {
+	state_building = {
+		level = 1
+		building = furniture_factory
+		upgrade = yes
+	}
+	state_building = {
+		level = 2
+		building = luxury_clothes_factory
+		upgrade = yes
+	}
 }
-
+2161.1.1 = { railroad = 3 }

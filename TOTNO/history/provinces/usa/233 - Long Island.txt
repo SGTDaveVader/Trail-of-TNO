@@ -1,5 +1,7 @@
-owner = RNA
-controller = RNA
-add_core = RNA
+owner = USA
+controller = USA
+add_core = USA
 trade_goods = grain
+
 life_rating = 35
+

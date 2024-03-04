@@ -1,7 +1,3 @@
-owner = MGL
-controller = MGL
-add_core = MCK
-add_core = MGL
+
 trade_goods = timber
-life_rating = 35
-terrain = forest
+life_rating = 15

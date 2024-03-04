@@ -1,7 +1,8 @@
-owner = NOV
-controller = NOV
-add_core = NOV
-add_core = KRL
-add_core = RUS
+owner = FIN
+controller = FIN
+add_core = FIN
+fort = 3
+
+
 trade_goods = grain
 life_rating = 35

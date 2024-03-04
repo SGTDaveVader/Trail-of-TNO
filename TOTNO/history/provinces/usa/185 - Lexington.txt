@@ -1,8 +1,13 @@
-owner = LOU
-controller = LOU
-add_core = CHE
-add_core = LOU
-add_core = QUE
+owner = USA
+controller = USA
+add_core = USA
 trade_goods = coal
 life_rating = 35
-colonial = 2
+2161.1.1 = {
+	state_building = {
+		level = 1
+		building = liquor_distillery
+		upgrade = yes
+	}
+}
+2161.1.1 = { railroad = 3 }

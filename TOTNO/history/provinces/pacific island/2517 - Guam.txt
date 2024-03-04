@@ -1,4 +1,6 @@
-add_core = PHL
+owner = JAP
+controller = JAP
+add_core = JAP
 trade_goods = fish
-life_rating = 25
-terrain = small_island
+life_rating = 30
+colonial = 2

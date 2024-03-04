@@ -1,6 +1,9 @@
-owner = CEE
-controller = CEE
-add_core = CEE
+
+
+
+
 trade_goods = fish
- 
-life_rating = 15
+life_rating = 35
+owner = CAN
+controller = CAN
+add_core = CAN

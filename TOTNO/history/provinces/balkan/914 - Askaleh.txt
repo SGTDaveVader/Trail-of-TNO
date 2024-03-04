@@ -1,9 +1,11 @@
-owner = JER
-controller = JER
-add_core = JER
-add_core = LBN
+
+
+
+
 trade_goods = iron
 life_rating = 35
-terrain = hills
 
-
+owner = IIS
+controller = IIS
+add_core = SYR
+colonial = 2

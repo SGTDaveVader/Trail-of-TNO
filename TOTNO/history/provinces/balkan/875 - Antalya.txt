@@ -1,6 +1,8 @@
-owner = NCE
-controller = NCE
-add_core = NCE
-add_core = BYZ
-trade_goods = fish
-life_rating = 40
+owner = TUR
+controller = TUR
+add_core = TUR
+
+
+naval_base = 1
+trade_goods = grain
+life_rating = 35

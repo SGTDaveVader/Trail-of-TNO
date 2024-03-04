@@ -1,7 +1,9 @@
-owner = BYE
-controller = BYE
+owner = BLT
+controller = BLT
+add_core = BLT
 add_core = BYE
-add_core = KIR
-add_core = RUS
+
+
+
 trade_goods = cattle
-life_rating = 15
+life_rating = 35

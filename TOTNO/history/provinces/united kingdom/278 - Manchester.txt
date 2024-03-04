@@ -1,8 +1,12 @@
-owner = SCO
-controller = SCO
-add_core = SCO 
-add_core = GAE
-add_core = ENL
+owner = ENG
+controller = ENG
+add_core = ENG
+
+
 trade_goods = coal
 life_rating = 40
 railroad = 1
+2161.1.1 = {
+railroad = 3
+}
+2161.1.1 = { railroad = 3 }

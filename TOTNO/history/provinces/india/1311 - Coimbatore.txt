@@ -1,8 +1,13 @@
-owner = MYS
-controller = MYS
-add_core = MYS
-add_core = HYD
-add_core = KRN
+
+owner = HND
+controller = HND
 add_core = HND
-trade_goods = cattle
+
+
+
+
+
+trade_goods = tea
 life_rating = 32
+
+add_core = TRA

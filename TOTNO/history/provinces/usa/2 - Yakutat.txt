@@ -1,3 +1,5 @@
-trade_goods = fish
+owner = USA
+controller = USA
+add_core = USA
+trade_goods = coal
 life_rating = 20
- 

@@ -1,6 +1,5 @@
-owner = ARG
-controller = ARG
-add_core = ARG
+owner = URU
+controller = URU
+add_core = URU
 trade_goods = cattle
-life_rating = 39
-naval_base = 1
+life_rating = 35

@@ -1,8 +1,8 @@
-owner = SCA
-controller = SCA
-add_core = ASH
-trade_goods = coffee
-colonial = 1
-life_rating = 35
 
+
+trade_goods = coffee
+life_rating = 35
+owner = AF2
+controller = AF2
+add_core = AF2
 

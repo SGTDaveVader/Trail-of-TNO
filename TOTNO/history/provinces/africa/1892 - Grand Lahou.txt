@@ -1,3 +1,6 @@
-add_core = KNG
-trade_goods = fish
-life_rating = 10
+trade_goods = oil
+life_rating = 15
+owner = CFR
+controller = CFR
+add_core = CFR
+colonial = 2

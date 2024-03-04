@@ -1,7 +1,6 @@
-owner = BRZ
-controller = BRZ
-add_core = BRZ
+owner = CBR
+controller = CBR
 trade_goods = fruit
-terrain = plains
 life_rating = 35
-naval_base = 1
+colonial = 2
+2161.1.1 = { railroad = 1 }

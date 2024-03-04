@@ -1,4 +1,6 @@
-add_core = KNG
-trade_goods = grain
-life_rating = 10
-colonial = 1
+trade_goods = cotton
+life_rating = 15
+owner = CFR
+controller = CFR
+add_core = CFR
+colonial = 2

@@ -1,8 +1,8 @@
-owner = EGY
-controller = EGY
-add_core = EGY
-add_core = ALO
+owner = IGY
+controller = IGY
 add_core = SUD
+colonial = 2
+
+
 trade_goods = grain
-life_rating = 35
-terrain = plains
+life_rating = 30

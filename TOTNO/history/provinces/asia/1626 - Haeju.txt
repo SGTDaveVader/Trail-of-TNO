@@ -1,5 +1,7 @@
-owner = KOR
-controller = KOR
+owner = JAP
+controller = JAP
 add_core = KOR
+naval_base = 1
+
 trade_goods = iron
-life_rating = 31
+life_rating = 35

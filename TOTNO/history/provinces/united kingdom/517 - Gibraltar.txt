@@ -1,8 +1,8 @@
-owner = ADL
-controller = ADL
-add_core = ADL
+owner = IBE
+controller = IBE
 add_core = IBE
-terrain = urban
-trade_goods = precious_goods
+add_core = SPA
+
+
+trade_goods = fish
 life_rating = 35
-fort = 1

@@ -1,8 +1,7 @@
-owner = MGL
-controller = MGL
-add_core = GOL
-add_core = MGL
+owner = KAZ
+controller = KAZ
 add_core = KAZ
-trade_goods = opium
-railroad = 1
+
+
+trade_goods = wool
 life_rating = 35

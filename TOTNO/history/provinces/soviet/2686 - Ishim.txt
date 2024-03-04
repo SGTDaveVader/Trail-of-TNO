@@ -1,2 +1,8 @@
+owner = NUC
+controller = NUC
+add_core = NUC
+railroad = 2
+
+
 trade_goods = sulphur
-life_rating = 30
+life_rating = 35

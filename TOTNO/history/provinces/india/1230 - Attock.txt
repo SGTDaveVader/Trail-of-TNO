@@ -1,8 +1,10 @@
-owner = PNJ
-controller = PNJ
 
-add_core = PNJ
-add_core = HND
+owner = HND
+controller = HND
+add_core = PAK
+
+
+
+
 trade_goods = wool
 life_rating = 32
-

@@ -1,6 +1,5 @@
-owner = TKM
-controller = TKM
-add_core = PER
-add_core = TKM
-trade_goods = fruit
+trade_goods = opium
 life_rating = 35
+owner = KHI
+controller = KHI
+add_core = KHI

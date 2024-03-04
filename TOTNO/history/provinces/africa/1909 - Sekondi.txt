@@ -1,7 +1,7 @@
-owner = NET
-controller = NET
-add_core = ASH
-trade_goods = coffee
+trade_goods = coal
 life_rating = 35
-colonial = 1
+owner = AF2
+controller = AF2
+add_core = AF2
+
 

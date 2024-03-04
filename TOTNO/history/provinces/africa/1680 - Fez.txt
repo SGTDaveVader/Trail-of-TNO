@@ -1,6 +1,5 @@
-owner = ADL
-controller = ADL
-add_core = ADL
+owner = IBE
+controller = IBE
 add_core = MOR
-trade_goods = precious_metal
+trade_goods = oil
 life_rating = 35

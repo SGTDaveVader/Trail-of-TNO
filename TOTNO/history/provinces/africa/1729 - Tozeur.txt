@@ -1,6 +1,5 @@
-owner = ADL
-controller = ADL
-add_core = TRI
+owner = ITA
+controller = ITA
 add_core = TUN
 trade_goods = wool
-life_rating = 21
+life_rating = 35

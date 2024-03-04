@@ -1,8 +1,8 @@
-owner = NCE
-controller = NCE
-add_core = NCE
-add_core = BYZ
-add_core = GRE
-trade_goods = sulphur
-life_rating = 40
-terrain = small_island
+owner = ITA
+controller = ITA
+add_core = TUR
+
+naval_base = 2
+
+trade_goods = grain
+life_rating = 35

@@ -1,7 +1,10 @@
-owner = SCA
-controller = SCA
-add_core = SCA
+owner = ENG
+controller = REB
 add_core = ENG
-add_core = GAE
+
+
 trade_goods = coal
 life_rating = 35
+2161.1.1 = { 
+	railroad = 3 
+}

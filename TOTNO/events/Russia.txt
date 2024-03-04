@@ -1,0 +1,474 @@
+country_event = {
+	id = 500258
+	title = "Gods of the North"
+	desc = "event500258desc"
+
+	is_triggered_only = yes
+
+	major = yes
+
+	immediate = {
+		2695 = {secede_province = THIS add_core = THIS}
+		2650 = {secede_province = THIS add_core = THIS}
+		2671 = {secede_province = THIS add_core = THIS}
+		2649 = {secede_province = THIS add_core = THIS}
+		2652 = {secede_province = THIS add_core = THIS}
+		2667 = {secede_province = THIS add_core = THIS}
+		1071 = {secede_province = THIS add_core = THIS}
+		2668 = {secede_province = THIS add_core = THIS}
+		2647 = {secede_province = THIS add_core = THIS}
+		2665 = {secede_province = THIS add_core = THIS}
+		2619 = {secede_province = THIS add_core = THIS}
+		2643 = {secede_province = THIS add_core = THIS}
+		2642 = {secede_province = THIS add_core = THIS}
+		2640 = {secede_province = THIS add_core = THIS}
+		2621 = {secede_province = THIS add_core = THIS}
+		2664 = {secede_province = THIS add_core = THIS}
+		2620 = {secede_province = THIS add_core = THIS}
+		2660 = {secede_province = THIS add_core = THIS}
+		2662 = {secede_province = THIS add_core = THIS}
+		2638 = {secede_province = THIS add_core = THIS}
+		1073 = {secede_province = THIS add_core = THIS}
+		2622 = {secede_province = THIS add_core = THIS}
+		2661 = {secede_province = THIS add_core = THIS}
+		2666 = {secede_province = THIS add_core = THIS}
+		2590 = {secede_province = THIS add_core = THIS}
+		2637 = {secede_province = THIS add_core = THIS}
+		2634 = {secede_province = THIS add_core = THIS}
+		2663 = {secede_province = THIS add_core = THIS}
+		1073 = {secede_province = THIS add_core = THIS}
+		3246 = {secede_province = JAN}
+		civilized = yes
+
+		any_owned = {
+			add_province_modifier = {
+				name = ora_ai_fix
+				duration = 7
+			}
+			any_pop = {
+				limit = {pop_type = soldiers}
+				reduce_pop = 1.5
+			}
+		}
+		2671 = {
+			sub_unit = {type = infantry value = current}
+			sub_unit = {type = infantry value = current}
+			sub_unit = {type = hussar value = current}
+			sub_unit = {type = artillery value = current}
+			sub_unit = {type = artillery value = current}
+			sub_unit = {type = artillery value = current}
+		}
+		2649 = {
+			sub_unit = {type = infantry value = current}
+			sub_unit = {type = infantry value = current}
+			sub_unit = {type = hussar value = current}
+			sub_unit = {type = artillery value = current}
+			sub_unit = {type = artillery value = current}
+			sub_unit = {type = artillery value = current}
+		}
+		1071 = {
+			sub_unit = {type = infantry value = current}
+			sub_unit = {type = infantry value = current}
+			sub_unit = {type = hussar value = current}
+			sub_unit = {type = artillery value = current}
+			sub_unit = {type = artillery value = current}
+			sub_unit = {type = artillery value = current}
+		}
+		2642 = {
+			sub_unit = {type = infantry value = current}
+			sub_unit = {type = infantry value = current}
+			sub_unit = {type = hussar value = current}
+			sub_unit = {type = artillery value = current}
+			sub_unit = {type = artillery value = current}
+			sub_unit = {type = artillery value = current}
+		}
+		treasury = 300000
+		NAV = {
+			all_core = {
+				add_core = THIS
+			}
+		}
+	}
+	option = {
+		name = "I see."
+	}
+}
+
+
+country_event = {
+	id = 500071
+	title = "Russia Stabilized!"
+	desc = "EVENT500071desc"
+	major = yes
+
+	trigger = {
+		NOT = {has_global_flag = rus_unified}
+		primary_culture = russian
+		NOT = {tag = MSC}
+
+		NOT = {exists = R01}
+		NOT = {exists = R02}
+		NOT = {exists = R03}
+		NOT = {exists = R04}
+		NOT = {exists = R05}
+		NOT = {exists = R06}
+		NOT = {exists = R07}
+		NOT = {exists = R08}
+		NOT = {exists = R09}
+		NOT = {exists = R10}
+		NOT = {exists = R11}
+		NOT = {exists = R12}
+		NOT = {exists = R13}
+		NOT = {exists = NAV}
+
+		OR = {
+			AND = {
+				NOT = {has_global_flag = rar_formed_sov}
+				NOT = {exists = RAR}
+			}
+			NOT = {exists = RUS}
+		}
+
+		OR = {
+			NOT = {exists = WA1}
+			NOT = {exists = NUC}
+		}
+
+		OR = {
+			AND = {
+				NOT = {exists = WA2}
+				NOT = {exists = FED}
+				NOT = {exists = ALK}
+			}
+			AND = {
+				NOT = {exists = FED}
+				NOT = {exists = ALK}
+				NOT = {has_global_flag = nkv_formed_sov}
+				NOT = {exists = NKV}
+			}
+			AND = {
+				NOT = {exists = WA2}
+				NOT = {has_global_flag = nkv_formed_sov}
+				NOT = {exists = NKV}
+			}
+		}
+	}
+
+	mean_time_to_happen = {
+		months = 1
+	}
+
+	immediate = {
+		set_global_flag = rus_unified
+		any_country = {
+			limit = {
+				primary_culture = russian
+				NOT = {tag = MSC}
+				#war = no
+			}
+			prestige = 20
+			war_exhaustion = -50
+			add_country_modifier = {
+				name = Peace_and_stability
+				duration = 7300
+			}
+			
+		}
+	}
+
+	option = {
+		name = "Towards national reconstruction!"
+		
+	}
+}
+
+country_event = {
+	id = 500259
+	title = "russian lapse"
+	desc = "ai event"
+
+	trigger = {
+		OR = {
+			tag = R01
+			tag = R02
+			tag = R03
+			tag = R04
+			tag = R05
+			tag = R06
+			tag = R07
+			tag = R08
+			tag = R09
+			tag = R10
+			tag = R11
+			tag = R12
+			tag = R13
+		}
+		is_vassal = yes
+		overlord = {
+			OR = {
+				tag = RAR
+				tag = NUC
+				tag = RUS
+				tag = WA1
+				tag = NKV
+				tag = FED
+			}
+		}	
+		#war = no
+	}
+	mean_time_to_happen = {
+		months = 60
+		modifier = {
+			factor = 10
+			war = yes
+		}
+		modifier = {
+			factor = 0.5
+			overlord = {
+				ideological_thought = 1
+			}
+		}
+		modifier = {
+			factor = 0.5
+			overlord = {
+				state_n_government = 1
+			}
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				tag = R12
+				tag = R13
+			}
+		}
+
+		modifier = {
+			factor = 0.25
+			year = 1968
+		}
+		modifier = {
+			factor = 0.25
+			NOT = {exists = GER}
+		}
+	}
+	immediate = {
+		any_country = {
+			limit = {
+				tag = RAR
+				is_our_vassal = THIS
+			}
+			THIS = {
+				all_core = {
+					add_core = RAR
+				}
+			}
+			#inherit = THIS
+			THIS = {
+				release_vassal = THIS
+				any_owned = {
+					secede_province = RAR
+				}
+			}
+		}
+		any_country = {
+			limit = {
+				tag = RUS
+				is_our_vassal = THIS
+			}
+			THIS = {
+				all_core = {
+					add_core = RUS
+				}
+			}
+			#inherit = THIS
+			THIS = {
+				release_vassal = THIS
+				any_owned = {
+					secede_province = RUS
+				}
+			}
+		}
+		any_country = {
+			limit = {
+				tag = NUC
+				is_our_vassal = THIS
+			}
+			THIS = {
+				all_core = {
+					add_core = NUC
+				}
+			}
+			#inherit = THIS
+			THIS = {
+				release_vassal = THIS
+				any_owned = {
+					secede_province = NUC
+				}
+			}
+		}
+		any_country = {
+			limit = {
+				tag = WA1
+				is_our_vassal = THIS
+			}
+			THIS = {
+				all_core = {
+					add_core = WA1
+				}
+			}
+			#inherit = THIS
+			THIS = {
+				release_vassal = THIS
+				any_owned = {
+					secede_province = WA1
+				}
+			}
+		}
+		any_country = {
+			limit = {
+				tag = NKV
+				is_our_vassal = THIS
+			}
+			THIS = {
+				all_core = {
+					add_core = NKV
+				}
+			}
+			#inherit = THIS
+			THIS = {
+				release_vassal = THIS
+				any_owned = {
+					secede_province = NKV
+				}
+			}
+		}
+		any_country = {
+			limit = {
+				tag = FED
+				is_our_vassal = THIS
+			}
+			THIS = {
+				all_core = {
+					add_core = FED
+				}
+			}
+			#inherit = THIS
+			THIS = {
+				release_vassal = THIS
+				any_owned = {
+					secede_province = FED
+				}
+			}
+		}
+	}
+	option = {
+		name = "ok"
+	}
+}
+
+
+country_event = {
+	id = 500260
+	title = "ai"
+	desc = "ai"
+
+	trigger = {
+		ai = yes
+		exists = NAV
+		NOT = {truce_with = NAV}
+		tag = WA2
+		war = no
+	}
+	mean_time_to_happen = {
+		months = 2
+	}
+
+	immediate = {
+		NAV = {
+			leave_alliance = FED
+			leave_alliance = JAP
+			leave_alliance = NKV
+			leave_alliance = WA1
+			leave_alliance = NUC
+			leave_alliance = MGL
+			leave_alliance = YNN
+		}
+		war = {
+			target = NAV
+			attacker_goal = { casus_belli = tiny_conquest }
+			call_ally = yes
+		}
+		
+	}
+	option = {
+		name = "yasy"
+	}
+}
+
+country_event = {
+	id = 500261
+	title = "ai"
+	desc = "ai"
+
+	trigger = {
+		ai = yes
+		tag = WA2
+		war = no
+		NOT = {exists = NAV}
+		OR = {
+			AND = {
+				exists = NKV
+				NOT = {truce_with = NKV}
+			}
+			AND = {
+				exists = FED
+				NOT = {truce_with = FED}
+			}
+		}
+	}
+	mean_time_to_happen = {
+		months = 2
+	}
+
+
+	option = {
+		name = "yasy"
+		war = {
+			target = NKV
+			attacker_goal = { casus_belli = civil_war }
+			defender_goal = { casus_belli = civil_war }
+			call_ally = yes
+		}
+		ai_chance = {
+			factor = 1
+			modifier = {
+				factor = 0
+				OR = {
+					NOT = {exists = NKV}
+					truce_with = NKV
+				}
+			}
+		}
+	}
+
+	option = {
+		name = "yasy"
+		war = {
+			target = FED
+			attacker_goal = { casus_belli = civil_war }
+			defender_goal = { casus_belli = civil_war }
+			call_ally = yes
+		}
+
+		ai_chance = {
+			factor = 1
+			modifier = {
+				factor = 0
+				OR = {
+					NOT = {exists = FED}
+					truce_with = FED
+				}
+			}
+		}
+	}
+}

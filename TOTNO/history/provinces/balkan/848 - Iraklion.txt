@@ -1,9 +1,15 @@
-owner = CRE
-controller = CRE
-add_core = BYZ
-add_core = CRE
+owner = ITA
+controller = ITA
 add_core = GRE
+
+
+
+
+
 trade_goods = fruit
-life_rating = 40
+life_rating = 35
 
-
+2161.1.1 = {
+	 
+	
+}

@@ -1,7 +1,16 @@
-owner = HYD
-controller = HYD
-add_core = HYD
-add_core = MYS
-add_core = HND
-trade_goods = cattle
+
+
+
+
+trade_goods = tea
 life_rating = 32
+
+owner = HND
+controller = HND
+add_core = HND
+party_loyalty = {
+	ideology = socialist
+	loyalty_value = 30
+}
+
+add_core = MYS

@@ -1,6 +1,9 @@
-owner = JER
-controller = JER
-add_core = JER
-add_core = CYP
+owner = ITA
+controller = ITA
+add_core = TUR
+
+
+
+
 trade_goods = fruit
 life_rating = 35

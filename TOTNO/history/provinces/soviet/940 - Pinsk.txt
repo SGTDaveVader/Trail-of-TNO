@@ -1,6 +1,10 @@
-owner = BYE
-controller = BYE
+owner = BLT
+controller = BLT
+add_core = BLT
+
 add_core = BYE
-add_core = KIR
+
+
+
 trade_goods = grain
 life_rating = 35

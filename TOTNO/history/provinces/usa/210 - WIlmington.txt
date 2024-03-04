@@ -1,11 +1,13 @@
-owner = LOU
-controller = LOU
-add_core = LOU
+owner = USA
+controller = USA
+add_core = USA
 trade_goods = cotton
 life_rating = 35
 
-state_building = {
-    level = 1 
-    building = regular_clothes_factory
-    upgrade = yes
+railroad = 1
+2161.1.1 = {
+	controller = CSA
+	owner = CSA
+	add_core = CSA
 }
+2161.1.1 = { railroad = 3 }

@@ -1,7 +1,5 @@
-owner = ADL
-controller = ADL
-add_core = ADL
+owner = IBE
+controller = IBE
 add_core = MOR
 trade_goods = fish
-terrain = urban
 life_rating = 35

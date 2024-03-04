@@ -1,6 +1,8 @@
-owner = YNN
-controller = YNN
-add_core = YNN
-add_core = CHI
-trade_goods = tropical_wood
+owner = CH2
+controller = CH2
+add_core = CH2
+
+
+
+trade_goods = tea
 life_rating = 32

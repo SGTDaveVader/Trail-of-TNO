@@ -1,6 +1,10 @@
-owner = NOV
-controller = NOV
-add_core = NOV
-add_core = RUS
+owner = R04
+controller = R04
+add_core = R04
+
+
+
 trade_goods = timber
 life_rating = 35
+
+fort = 1

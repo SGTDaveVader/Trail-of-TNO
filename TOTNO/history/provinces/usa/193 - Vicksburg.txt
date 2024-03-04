@@ -1,6 +1,11 @@
-owner = LOU
-controller = REB
-add_core = LOU
-add_core = CHE
-trade_goods = cotton
+owner = USA
+controller = USA
+add_core = USA
+trade_goods = grain
 life_rating = 35
+2161.1.1 = {
+	controller = CSA
+	owner = CSA
+	add_core = CSA
+}
+2161.1.1 = { railroad = 3 }

@@ -1,5 +1,8 @@
-trade_goods = grain
-life_rating = 15
-terrain = semidesert
-colonial = 1
 
+
+add_core = SAF
+trade_goods = grain
+life_rating = 35
+owner = SAF
+controller = SAF
+fort = 1

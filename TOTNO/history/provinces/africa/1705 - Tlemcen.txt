@@ -1,6 +1,8 @@
-owner = ADL
-controller = ADL
-add_core = ADL
+
+owner = SAL
+controller = SAL
 add_core = ALD
-trade_goods = fruit
+colonial = 2
+
+trade_goods = iron
 life_rating = 35

@@ -1,8 +1,7 @@
-owner = NCE
-controller = NCE
-add_core = NCE
-add_core = GAL
-add_core = BYZ
+owner = TUR
+controller = TUR
+add_core = TUR
+
 
 trade_goods = wool
-life_rating = 40
+life_rating = 35
